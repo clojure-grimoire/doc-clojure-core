@@ -1,1 +1,1 @@
-{:added "1.0", :ns "clojure.core", :name "meta", :file "clojure/core.clj", :static true, :type :fn, :src "(def\n ^{:arglists '([obj])\n   :doc \"Returns the metadata of obj, returns nil if there is no metadata.\"\n   :added \"1.0\"\n   :static true}\n meta (fn ^:static meta [x]\n        (if (instance? clojure.lang.IMeta x)\n          (. ^clojure.lang.IMeta x (meta)))))", :column 1, :line 198, :arglists ([obj]), :doc "Returns the metadata of obj, returns nil if there is no metadata."}
+{:doc "Fundamental library of the Clojure language"}
