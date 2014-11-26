@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Method\n  [name return-type declaring-class parameter-types exception-types flags])", :ns "clojure.reflect", :name "->Method", :file "clojure/reflect/java.clj", :column 1, :line 128, :arglists ([name return-type declaring-class parameter-types exception-types flags]), :doc "Positional factory function for class clojure.reflect.Method."}

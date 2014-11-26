@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "set", :file "clojure/core.clj", :static true, :type :fn, :src "(defn set\n  \"Returns a set of the distinct elements of coll.\"\n  {:added \"1.0\"\n   :static true}\n  [coll] (clojure.lang.PersistentHashSet/create (seq coll)))", :column 1, :line 3778, :arglists ([coll]), :doc "Returns a set of the distinct elements of coll."}

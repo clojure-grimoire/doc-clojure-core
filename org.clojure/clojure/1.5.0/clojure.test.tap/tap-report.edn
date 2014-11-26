@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti ^:dynamic tap-report :type)", :ns "clojure.test.tap", :name "tap-report", :dynamic true, :column 1, :line 72, :file "clojure/test/tap.clj"}

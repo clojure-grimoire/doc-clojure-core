@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn collection-tag [x]\n  (cond \n   (instance? java.util.Map$Entry x) :entry\n   (instance? java.util.Map x) :map\n   (sequential? x) :seq\n   :else :atom))", :ns "clojure.inspector", :name "collection-tag", :arglists ([x]), :column 1, :line 22, :file "clojure/inspector.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.string", :name "trim", :src "(defn ^String trim\n  \"Removes whitespace from both ends of string.\"\n  {:added \"1.2\"}\n  [^CharSequence s]\n  (.. s toString trim))", :column 1, :added "1.2", :type :fn, :doc "Removes whitespace from both ends of string.", :line 232, :file "clojure/string.clj", :tag java.lang.String}

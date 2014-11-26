@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*in*", :src nil, :added "1.0", :type :var, :doc "A java.io.Reader object representing standard input for read operations.\n\n  Defaults to System/in, wrapped in a LineNumberingPushbackReader"}

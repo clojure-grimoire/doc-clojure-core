@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "seq?", :src "(def\n ^{:arglists '([x])\n   :doc \"Return true if x implements ISeq\"\n   :added \"1.0\"\n   :static true}\n seq? (fn ^:static seq? [x] (instance? clojure.lang.ISeq x)))", :column 1, :added "1.0", :static true, :type :fn, :doc "Return true if x implements ISeq", :line 142, :file "clojure/core.clj"}

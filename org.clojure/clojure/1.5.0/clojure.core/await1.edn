@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:static await1 [^clojure.lang.Agent a]\n  (when (pos? (.getQueueCount a))\n    (await a))\n    a)", :ns "clojure.core", :name "await1", :arglists ([a]), :column 1, :static true, :line 2929, :file "clojure/core.clj"}

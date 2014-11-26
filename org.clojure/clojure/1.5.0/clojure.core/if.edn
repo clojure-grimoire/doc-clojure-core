@@ -1,0 +1,1 @@
+{:arglists [(if test then else?)], :ns "clojure.core", :name if, :src ";; Special forms have no source", :column nil, :type :special, :doc "Evaluates test. If not the singular values nil or false,\n  evaluates and yields then, otherwise, evaluates and yields else. If\n  else is not supplied it defaults to nil.", :line nil, :file nil}

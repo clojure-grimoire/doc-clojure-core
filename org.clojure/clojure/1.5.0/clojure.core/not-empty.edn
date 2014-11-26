@@ -1,0 +1,1 @@
+{:arglists ([coll]), :ns "clojure.core", :name "not-empty", :src "(defn not-empty\n  \"If coll is empty, returns nil, else coll\"\n  {:added \"1.0\"\n   :static true}\n  [coll] (when (seq coll) coll))", :column 1, :added "1.0", :static true, :type :fn, :doc "If coll is empty, returns nil, else coll", :line 4973, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([]), :ns "clojure.core", :name "newline", :src "(defn newline\n  \"Writes a platform-specific newline to *out*\"\n  {:added \"1.0\"\n   :static true}\n  []\n    (. *out* (append system-newline))\n    nil)", :column 1, :added "1.0", :static true, :type :fn, :doc "Writes a platform-specific newline to *out*", :line 3345, :file "clojure/core.clj"}

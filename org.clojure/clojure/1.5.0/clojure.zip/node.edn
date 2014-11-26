@@ -1,0 +1,1 @@
+{:arglists ([loc]), :ns "clojure.zip", :name "node", :src "(defn node\n  \"Returns the node at loc\"\n  {:added \"1.0\"}\n  [loc] (loc 0))", :column 1, :added "1.0", :type :fn, :doc "Returns the node at loc", :line 64, :file "clojure/zip.clj"}

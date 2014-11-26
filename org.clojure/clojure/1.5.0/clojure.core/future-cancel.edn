@@ -1,0 +1,1 @@
+{:arglists ([f]), :ns "clojure.core", :name "future-cancel", :src "(defn future-cancel\n  \"Cancels the future, if possible.\"\n  {:added \"1.1\"\n   :static true}\n  [^java.util.concurrent.Future f] (.cancel f true))", :column 1, :added "1.1", :static true, :type :fn, :doc "Cancels the future, if possible.", :line 6332, :file "clojure/core.clj"}

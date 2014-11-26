@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "not", :file "clojure/core.clj", :static true, :type :fn, :src "(defn not\n  \"Returns true if x is logical false, false otherwise.\"\n  {:tag Boolean\n   :added \"1.0\"\n   :static true}\n  [x] (if x false true))", :column 1, :line 497, :tag java.lang.Boolean, :arglists ([x]), :doc "Returns true if x is logical false, false otherwise."}

@@ -1,0 +1,1 @@
+{:arglists ([ns]), :ns "clojure.core", :name "ns-aliases", :src "(defn ns-aliases\n  \"Returns a map of the aliases for the namespace.\"\n  {:added \"1.0\"\n   :static true}\n  [ns]\n  (.getAliases (the-ns ns)))", :column 1, :added "1.0", :static true, :type :fn, :doc "Returns a map of the aliases for the namespace.", :line 3872, :file "clojure/core.clj"}

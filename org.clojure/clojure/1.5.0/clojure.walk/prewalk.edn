@@ -1,0 +1,1 @@
+{:arglists ([f form]), :ns "clojure.walk", :name "prewalk", :src "(defn prewalk\n  \"Like postwalk, but does pre-order traversal.\"\n  {:added \"1.1\"}\n  [f form]\n  (walk (partial prewalk f) identity (f form)))", :column 1, :added "1.1", :type :fn, :doc "Like postwalk, but does pre-order traversal.", :line 58, :file "clojure/walk.clj"}

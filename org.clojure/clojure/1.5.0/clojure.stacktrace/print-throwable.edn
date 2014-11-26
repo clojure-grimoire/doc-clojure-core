@@ -1,0 +1,1 @@
+{:arglists ([tr]), :ns "clojure.stacktrace", :name "print-throwable", :src "(defn print-throwable\n  \"Prints the class and message of a Throwable.\"\n  {:added \"1.1\"}\n  [tr]\n  (printf \"%s: %s\" (.getName (class tr)) (.getMessage tr)))", :column 1, :added "1.1", :type :fn, :doc "Prints the class and message of a Throwable.", :line 38, :file "clojure/stacktrace.clj"}

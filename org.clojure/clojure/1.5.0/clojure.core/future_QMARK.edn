@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "future?", :src "(defn future?\n  \"Returns true if x is a future\"\n  {:added \"1.1\"\n   :static true}\n  [x] (instance? java.util.concurrent.Future x))", :column 1, :added "1.1", :static true, :type :fn, :doc "Returns true if x is a future", :line 5909, :file "clojure/core.clj"}

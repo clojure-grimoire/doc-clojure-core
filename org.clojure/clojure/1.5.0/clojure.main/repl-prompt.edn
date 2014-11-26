@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn repl-prompt\n  \"Default :prompt hook for repl\"\n  []\n  (printf \"%s=> \" (ns-name *ns*)))", :ns "clojure.main", :name "repl-prompt", :arglists ([]), :column 1, :doc "Default :prompt hook for repl", :line 108, :file "clojure/main.clj"}

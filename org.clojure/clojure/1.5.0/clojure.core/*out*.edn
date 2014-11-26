@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*out*", :src nil, :added "1.0", :type :var, :doc "A java.io.Writer object representing standard output for print operations.\n\n  Defaults to System/out, wrapped in an OutputStreamWriter", :tag java.io.Writer}

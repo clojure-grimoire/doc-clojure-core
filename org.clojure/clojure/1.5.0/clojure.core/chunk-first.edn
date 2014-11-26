@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.core", :name "chunk-first", :src "(defn ^:static  ^clojure.lang.IChunk chunk-first ^clojure.lang.IChunk [^clojure.lang.IChunkedSeq s]\n  (.chunkedFirst s))", :column 1, :static true, :type :fn, :line 653, :file "clojure/core.clj", :tag clojure.lang.IChunk}

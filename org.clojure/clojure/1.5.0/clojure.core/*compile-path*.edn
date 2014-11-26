@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*compile-path*", :src nil, :added "1.0", :type :var, :doc "Specifies the directory where 'compile' will write out .class\n  files. This directory must be in the classpath for 'compile' to\n  work.\n\n  Defaults to \"classes\""}

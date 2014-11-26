@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "long", :file "clojure/core.clj", :type :fn, :src "(defn long\n  \"Coerce to long\"\n  {:inline (fn  [x] `(. clojure.lang.RT (longCast ~x)))\n   :added \"1.0\"}\n  [^Number x] (clojure.lang.RT/longCast x))", :column 1, :line 3191, :arglists ([x]), :doc "Coerce to long"}

@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "symbol?", :src "(defn symbol?\n  \"Return true if x is a Symbol\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.Symbol x))", :column 1, :added "1.0", :static true, :type :fn, :doc "Return true if x is a Symbol", :line 522, :file "clojure/core.clj"}

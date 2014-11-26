@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "bit-shift-right", :file "clojure/core.clj", :type :fn, :src "(defn bit-shift-right\n  \"Bitwise shift right\"\n  {:inline (fn [x n] `(. clojure.lang.Numbers (shiftRight ~x ~n)))\n   :added \"1.0\"}\n  [x n] (. clojure.lang.Numbers shiftRight x n))", :column 1, :line 1321, :arglists ([x n]), :doc "Bitwise shift right"}

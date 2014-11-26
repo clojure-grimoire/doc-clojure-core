@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*err*", :src nil, :added "1.0", :type :var, :doc "A java.io.Writer object representing standard error for print operations.\n\n  Defaults to System/err, wrapped in a PrintWriter"}

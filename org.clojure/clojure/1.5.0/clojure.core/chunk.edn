@@ -1,0 +1,1 @@
+{:arglists ([b]), :ns "clojure.core", :name "chunk", :src "(defn ^:static ^clojure.lang.IChunk chunk [^clojure.lang.ChunkBuffer b]\n  (.chunk b))", :column 1, :static true, :type :fn, :line 650, :file "clojure/core.clj", :tag clojure.lang.IChunk}

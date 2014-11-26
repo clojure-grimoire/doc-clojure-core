@@ -1,0 +1,1 @@
+{:arglists ([iref]), :ns "clojure.core", :name "get-validator", :src "(defn get-validator\n  \"Gets the validator-fn for a var/ref/agent/atom.\"\n  {:added \"1.0\"\n   :static true}\n [^clojure.lang.IRef iref] (. iref (getValidator)))", :column 1, :added "1.0", :static true, :type :fn, :doc "Gets the validator-fn for a var/ref/agent/atom.", :line 2191, :file "clojure/core.clj"}

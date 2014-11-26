@@ -1,0 +1,1 @@
+{:arglists ([coll]), :ns "clojure.core", :name "counted?", :src "(defn counted?\n \"Returns true if coll implements count in constant time\"\n {:added \"1.0\"\n   :static true}\n  [coll] (instance? clojure.lang.Counted coll))", :column 1, :added "1.0", :static true, :type :fn, :doc "Returns true if coll implements count in constant time", :line 5647, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Constructor\n  [name declaring-class parameter-types exception-types flags])", :ns "clojure.reflect", :name "map->Constructor", :arglists ([m__5828__auto__]), :column 1, :doc "Factory function for class clojure.reflect.Constructor, taking a map of keywords to field values.", :line 109, :file "clojure/reflect/java.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([x n]), :ns "clojure.core", :name "bit-set", :src "(defn bit-set\n  \"Set bit at index n\"\n  {:added \"1.0\"\n   :static true}\n  [x n] (. clojure.lang.Numbers setBit x n))", :column 1, :added "1.0", :static true, :type :fn, :doc "Set bit at index n", :line 1289, :file "clojure/core.clj"}

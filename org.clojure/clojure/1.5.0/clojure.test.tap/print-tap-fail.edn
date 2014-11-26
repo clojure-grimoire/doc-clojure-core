@@ -1,0 +1,1 @@
+{:arglists ([msg]), :ns "clojure.test.tap", :name "print-tap-fail", :src "(defn print-tap-fail \n  \"Prints a TAP 'not ok' line.  msg is a string, with no line breaks\"\n  {:added \"1.1\"}\n  [msg]\n  (println \"not ok\" msg))", :column 1, :added "1.1", :type :fn, :doc "Prints a TAP 'not ok' line.  msg is a string, with no line breaks", :line 65, :file "clojure/test/tap.clj"}

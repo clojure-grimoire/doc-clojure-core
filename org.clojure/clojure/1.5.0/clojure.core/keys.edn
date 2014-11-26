@@ -1,0 +1,1 @@
+{:arglists ([map]), :ns "clojure.core", :name "keys", :src "(defn keys\n  \"Returns a sequence of the map's keys.\"\n  {:added \"1.0\"\n   :static true}\n  [map] (. clojure.lang.RT (keys map)))", :column 1, :added "1.0", :static true, :type :fn, :doc "Returns a sequence of the map's keys.", :line 1465, :file "clojure/core.clj"}

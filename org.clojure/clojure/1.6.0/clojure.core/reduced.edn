@@ -1,0 +1,1 @@
+{:added "1.5", :ns "clojure.core", :name "reduced", :file "clojure/core.clj", :type :fn, :src "(defn reduced\n  \"Wraps x in a way such that a reduce will terminate with the value x\"\n  {:added \"1.5\"}\n  [x]\n  (clojure.lang.Reduced. x))", :column 1, :line 6251, :arglists ([x]), :doc "Wraps x in a way such that a reduce will terminate with the value x"}

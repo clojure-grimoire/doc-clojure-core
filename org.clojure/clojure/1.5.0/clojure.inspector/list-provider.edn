@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti list-provider class)", :ns "clojure.inspector", :name "list-provider", :column 1, :line 108, :file "clojure/inspector.clj"}

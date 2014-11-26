@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.string", :name "reverse", :src "(defn ^String reverse\n  \"Returns s with its characters reversed.\"\n  {:added \"1.2\"}\n  [^CharSequence s]\n  (.toString (.reverse (StringBuilder. s))))", :column 1, :added "1.2", :type :fn, :doc "Returns s with its characters reversed.", :line 46, :file "clojure/string.clj", :tag java.lang.String}

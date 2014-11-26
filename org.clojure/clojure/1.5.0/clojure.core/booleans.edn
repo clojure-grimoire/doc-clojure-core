@@ -1,0 +1,1 @@
+{:arglists ([xs]), :ns "clojure.core", :name "booleans", :src "(definline booleans\n  \"Casts to boolean[]\"\n  {:added \"1.1\"}\n  [xs] `(. clojure.lang.Numbers booleans ~xs))", :column 1, :added "1.1", :type :fn, :doc "Casts to boolean[]", :line 4792, :file "clojure/core.clj", :inline #<core$booleans clojure.core$booleans@2c3b39be>}

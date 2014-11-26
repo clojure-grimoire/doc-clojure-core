@@ -1,0 +1,1 @@
+{:arglists ([num]), :ns "clojure.core", :name "rationalize", :src "(defn rationalize\n  \"returns the rational value of num\"\n  {:added \"1.0\"\n   :static true}\n  [num]\n  (. clojure.lang.Numbers (rationalize num)))", :column 1, :added "1.0", :static true, :type :fn, :doc "returns the rational value of num", :line 1229, :file "clojure/core.clj"}

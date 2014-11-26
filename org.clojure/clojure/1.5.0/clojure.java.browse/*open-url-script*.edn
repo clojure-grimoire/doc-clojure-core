@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *open-url-script* (when (macosx?) \"/usr/bin/open\"))", :ns "clojure.java.browse", :name "*open-url-script*", :dynamic true, :column 1, :line 20, :file "clojure/java/browse.clj"}

@@ -1,0 +1,1 @@
+{:arglists [(monitor-exit x)], :ns "clojure.core", :name monitor-exit, :src ";; Special forms have no source", :column nil, :type :special, :doc "Synchronization primitive that should be avoided\n  in user code. Use the 'locking' macro.", :line nil, :file nil}

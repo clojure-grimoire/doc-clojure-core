@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "bit-flip", :file "clojure/core.clj", :static true, :type :fn, :src "(defn bit-flip\n  \"Flip bit at index n\"\n  {:added \"1.0\"\n   :static true}\n  [x n] (. clojure.lang.Numbers flipBit x n))", :column 1, :line 1302, :arglists ([x n]), :doc "Flip bit at index n"}

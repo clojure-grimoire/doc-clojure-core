@@ -1,0 +1,1 @@
+{:arglists ([capacity]), :ns "clojure.core", :name "chunk-buffer", :src "(defn ^:static ^clojure.lang.ChunkBuffer chunk-buffer ^clojure.lang.ChunkBuffer [capacity]\n  (clojure.lang.ChunkBuffer. capacity))", :column 1, :static true, :type :fn, :line 644, :file "clojure/core.clj", :tag clojure.lang.ChunkBuffer}

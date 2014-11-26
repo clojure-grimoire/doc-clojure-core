@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "identity", :src "(defn identity\n  \"Returns its argument.\"\n  {:added \"1.0\"\n   :static true}\n  [x] x)", :column 1, :added "1.0", :static true, :type :fn, :doc "Returns its argument.", :line 1367, :file "clojure/core.clj"}

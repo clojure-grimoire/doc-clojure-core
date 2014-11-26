@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "nfirst", :file "clojure/core.clj", :static true, :type :fn, :src "(def\n ^{:doc \"Same as (next (first x))\"\n   :arglists '([x])\n   :added \"1.0\"\n   :static true}\n nfirst (fn ^:static nfirst [x] (next (first x))))", :column 1, :line 103, :arglists ([x]), :doc "Same as (next (first x))"}
