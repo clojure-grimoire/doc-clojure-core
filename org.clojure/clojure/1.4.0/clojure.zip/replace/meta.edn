@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn replace\n  \"Replaces the node at this loc, without moving\"\n  {:added \"1.0\"}\n  [loc node]\n    (let [[_ path] loc]\n      (with-meta [node (assoc path :changed? true)] (meta loc))))", :ns "clojure.zip", :name "replace", :arglists ([loc node]), :added "1.0", :doc "Replaces the node at this loc, without moving", :line 203, :file "clojure/zip.clj"}

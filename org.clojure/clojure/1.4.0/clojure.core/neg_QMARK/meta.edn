@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "neg?", :src "(defn neg?\n  \"Returns true if num is less than zero, else false\"\n  {\n   :inline (fn [x] `(. clojure.lang.Numbers (isNeg ~x)))\n   :added \"1.0\"}\n  [x] (. clojure.lang.Numbers (isNeg x)))", :added "1.0", :type :fn, :doc "Returns true if num is less than zero, else false", :line 1190, :file "clojure/core.clj"}

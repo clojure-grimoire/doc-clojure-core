@@ -1,0 +1,1 @@
+{:arglists ([& keys]), :ns "clojure.core", :name "create-struct", :src "(defn create-struct\n  \"Returns a structure basis object.\"\n  {:added \"1.0\"\n   :static true}\n  [& keys]\n    (. clojure.lang.PersistentStructMap (createSlotMap keys)))", :added "1.0", :static true, :type :fn, :doc "Returns a structure basis object.", :line 3578, :file "clojure/core.clj"}

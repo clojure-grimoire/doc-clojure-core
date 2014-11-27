@@ -1,0 +1,1 @@
+{:arglists ([name & keys]), :ns "clojure.core", :name "defstruct", :src "(defmacro defstruct\n  \"Same as (def name (create-struct keys...))\"\n  {:added \"1.0\"\n   :static true}\n  [name & keys]\n  `(def ~name (create-struct ~@keys)))", :added "1.0", :static true, :type :macro, :doc "Same as (def name (create-struct keys...))", :macro true, :line 3585, :file "clojure/core.clj"}

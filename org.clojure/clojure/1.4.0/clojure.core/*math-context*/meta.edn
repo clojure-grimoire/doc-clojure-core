@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*math-context*", :src nil, :type :var, :tag java.math.MathContext}

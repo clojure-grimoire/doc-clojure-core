@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *test-out* *out*)", :ns "clojure.test", :name "*test-out*", :dynamic true, :line 270, :file "clojure/test.clj"}

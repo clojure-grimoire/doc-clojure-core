@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "double", :src "(defn double\n  \"Coerce to double\"\n  {:inline (fn  [x] `(. clojure.lang.RT (doubleCast ~x)))\n   :added \"1.0\"}\n  [^Number x] (clojure.lang.RT/doubleCast x))", :added "1.0", :type :fn, :doc "Coerce to double", :line 3080, :file "clojure/core.clj"}

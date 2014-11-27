@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti print-dup (fn [x writer] (class x)))", :ns "clojure.core", :name "print-dup", :line 3258, :file "clojure/core.clj"}

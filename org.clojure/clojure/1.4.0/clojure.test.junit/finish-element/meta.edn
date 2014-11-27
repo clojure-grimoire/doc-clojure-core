@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn finish-element\n  [tag pretty]\n  (set! *depth* (dec *depth*))\n  (if pretty (indent))\n  (print (str \"</\" tag \">\"))\n  (if pretty (println)))", :ns "clojure.test.junit", :name "finish-element", :arglists ([tag pretty]), :line 70, :file "clojure/test/junit.clj"}

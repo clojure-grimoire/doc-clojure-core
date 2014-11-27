@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*ns*", :src nil, :added "1.0", :type :var, :doc "A clojure.lang.Namespace object representing the current namespace.", :tag clojure.lang.Namespace}

@@ -1,0 +1,1 @@
+{:arglists ([multifn]), :ns "clojure.core", :name "remove-all-methods", :src "(defn remove-all-methods\n  \"Removes all of the methods of multimethod.\"\n  {:added \"1.2\"\n   :static true} \n [^clojure.lang.MultiFn multifn]\n (.reset multifn))", :added "1.2", :static true, :type :fn, :doc "Removes all of the methods of multimethod.", :line 1616, :file "clojure/core.clj"}

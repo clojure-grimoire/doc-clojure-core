@@ -1,0 +1,1 @@
+{:type :var, :src "(def arr-impl\n  '(internal-reduce\n       [a-seq f val]\n       (let [arr (.array a-seq)]\n         (loop [i (.index a-seq)\n                val val]\n           (if (< i (alength arr))\n             (recur (inc i) (f val (aget arr i)))\n             val)))))", :ns "clojure.core.protocols", :name "arr-impl", :line 132, :file "clojure/core/protocols.clj"}

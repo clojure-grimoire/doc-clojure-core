@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.string", :name "lower-case", :src "(defn ^String lower-case\n  \"Converts string to all lower-case.\"\n  {:added \"1.2\"}\n  [^CharSequence s]\n  (.. s toString toLowerCase))", :added "1.2", :type :fn, :doc "Converts string to all lower-case.", :line 163, :file "clojure/string.clj", :tag java.lang.String}

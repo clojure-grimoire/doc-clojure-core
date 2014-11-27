@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *local-javadocs* (ref (list)))", :ns "clojure.java.javadoc", :name "*local-javadocs*", :dynamic true, :line 19, :file "clojure/java/javadoc.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "number?", :src "(defn number?\n  \"Returns true if x is a Number\"\n  {:added \"1.0\"\n   :static true}\n  [x]\n  (instance? Number x))", :added "1.0", :static true, :type :fn, :doc "Returns true if x is a Number", :line 3154, :file "clojure/core.clj"}

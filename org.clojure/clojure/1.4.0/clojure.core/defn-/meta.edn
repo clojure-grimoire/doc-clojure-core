@@ -1,0 +1,1 @@
+{:arglists ([name & decls]), :ns "clojure.core", :name "defn-", :src "(defmacro defn-\n  \"same as defn, yielding non-public def\"\n  {:added \"1.0\"}\n  [name & decls]\n    (list* `defn (with-meta name (assoc (meta name) :private true)) decls))", :added "1.0", :type :macro, :doc "same as defn, yielding non-public def", :macro true, :line 4355, :file "clojure/core.clj"}

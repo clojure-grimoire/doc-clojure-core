@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn lefts\n  \"Returns a seq of the left siblings of this loc\"\n  {:added \"1.0\"}\n  [loc]\n    (seq (:l (loc 1))))", :ns "clojure.zip", :name "lefts", :arglists ([loc]), :added "1.0", :doc "Returns a seq of the left siblings of this loc", :line 96, :file "clojure/zip.clj"}

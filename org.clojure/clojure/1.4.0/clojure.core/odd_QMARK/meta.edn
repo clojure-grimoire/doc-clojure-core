@@ -1,0 +1,1 @@
+{:arglists ([n]), :ns "clojure.core", :name "odd?", :src "(defn odd?\n  \"Returns true if n is odd, throws an exception if n is not an integer\"\n  {:added \"1.0\"\n   :static true}\n  [n] (not (even? n)))", :added "1.0", :static true, :type :fn, :doc "Returns true if n is odd, throws an exception if n is not an integer", :line 1324, :file "clojure/core.clj"}

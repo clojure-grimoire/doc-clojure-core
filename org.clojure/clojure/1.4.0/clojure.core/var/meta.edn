@@ -1,0 +1,1 @@
+{:arglists [(var symbol)], :ns "clojure.core", :name var, :src ";; Special forms have no source", :column nil, :type :special, :doc "The symbol must resolve to a var, and the Var object\nitself (not its value) is returned. The reader macro #'x expands to (var x).", :line nil, :file nil}

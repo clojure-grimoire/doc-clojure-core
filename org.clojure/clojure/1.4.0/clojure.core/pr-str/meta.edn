@@ -1,0 +1,1 @@
+{:arglists ([& xs]), :ns "clojure.core", :name "pr-str", :src "(defn pr-str\n  \"pr to a string, returning it\"\n  {:tag String\n   :added \"1.0\"\n   :static true}\n  [& xs]\n    (with-out-str\n     (apply pr xs)))", :added "1.0", :static true, :type :fn, :doc "pr to a string, returning it", :line 4190, :file "clojure/core.clj", :tag java.lang.String}

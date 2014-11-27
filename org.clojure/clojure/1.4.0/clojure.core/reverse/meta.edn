@@ -1,0 +1,1 @@
+{:arglists ([coll]), :ns "clojure.core", :name "reverse", :src "(defn reverse\n  \"Returns a seq of the items in coll in reverse order. Not lazy.\"\n  {:added \"1.0\"\n   :static true}\n  [coll]\n    (reduce1 conj () coll))", :added "1.0", :static true, :type :fn, :doc "Returns a seq of the items in coll in reverse order. Not lazy.", :line 883, :file "clojure/core.clj"}

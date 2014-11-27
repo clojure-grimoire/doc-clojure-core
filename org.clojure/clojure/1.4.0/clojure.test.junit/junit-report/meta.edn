@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti ^:dynamic junit-report :type)", :ns "clojure.test.junit", :name "junit-report", :dynamic true, :line 142, :file "clojure/test/junit.clj"}

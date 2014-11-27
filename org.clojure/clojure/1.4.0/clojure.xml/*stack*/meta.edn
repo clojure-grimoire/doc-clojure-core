@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *stack*)", :ns "clojure.xml", :name "*stack*", :dynamic true, :line 15, :file "clojure/xml.clj"}

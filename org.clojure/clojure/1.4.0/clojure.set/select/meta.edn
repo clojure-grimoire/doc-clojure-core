@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn select\n  \"Returns a set of the elements for which pred is true\"\n  {:added \"1.0\"}\n  [pred xset]\n    (reduce (fn [s k] (if (pred k) s (disj s k)))\n            xset xset))", :ns "clojure.set", :name "select", :arglists ([pred xset]), :added "1.0", :doc "Returns a set of the elements for which pred is true", :line 64, :file "clojure/set.clj"}

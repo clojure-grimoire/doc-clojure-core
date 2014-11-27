@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.string", :name "upper-case", :src "(defn ^String upper-case\n  \"Converts string to all upper-case.\"\n  {:added \"1.2\"}\n  [^CharSequence s]\n  (.. s toString toUpperCase))", :added "1.2", :type :fn, :doc "Converts string to all upper-case.", :line 157, :file "clojure/string.clj", :tag java.lang.String}

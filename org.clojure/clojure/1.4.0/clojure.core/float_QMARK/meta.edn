@@ -1,0 +1,1 @@
+{:arglists ([n]), :ns "clojure.core", :name "float?", :src "(defn float?\n  \"Returns true if n is a floating point number\"\n  {:added \"1.0\"\n   :static true}\n  [n]\n  (or (instance? Double n)\n      (instance? Float n)))", :added "1.0", :static true, :type :fn, :doc "Returns true if n is a floating point number", :line 3199, :file "clojure/core.clj"}

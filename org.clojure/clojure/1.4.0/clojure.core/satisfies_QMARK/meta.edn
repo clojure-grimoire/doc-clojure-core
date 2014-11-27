@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn satisfies? \n  \"Returns true if x satisfies the protocol\"\n  {:added \"1.2\"}\n  [protocol x]\n  (boolean (find-protocol-impl protocol x)))", :ns "clojure.core", :name "satisfies?", :arglists ([protocol x]), :added "1.2", :doc "Returns true if x satisfies the protocol", :line 513, :file "clojure/core_deftype.clj"}

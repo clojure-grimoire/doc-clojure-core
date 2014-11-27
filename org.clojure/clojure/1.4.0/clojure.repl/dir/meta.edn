@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro dir\n  \"Prints a sorted directory of public vars in a namespace\"\n  [nsname]\n  `(doseq [v# (dir-fn '~nsname)]\n     (println v#)))", :macro true, :ns "clojure.repl", :name "dir", :arglists ([nsname]), :doc "Prints a sorted directory of public vars in a namespace", :line 183, :file "clojure/repl.clj"}

@@ -1,0 +1,1 @@
+{:type :var, :src "(def content (accessor element :content))", :ns "clojure.xml", :name "content", :line 24, :file "clojure/xml.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([xs]), :ns "clojure.core", :name "bytes", :src "(definline bytes\n  \"Casts to bytes[]\"\n  {:added \"1.1\"}\n  [xs] `(. clojure.lang.Numbers bytes ~xs))", :added "1.1", :type :fn, :doc "Casts to bytes[]", :line 4697, :file "clojure/core.clj"}

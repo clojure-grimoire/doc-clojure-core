@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "list?", :src "(defn list?\n  \"Returns true if x implements IPersistentList\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.IPersistentList x))", :added "1.0", :static true, :type :fn, :doc "Returns true if x implements IPersistentList", :line 5488, :file "clojure/core.clj"}

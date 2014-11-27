@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *sh-env* nil)", :ns "clojure.java.shell", :name "*sh-env*", :dynamic true, :line 19, :file "clojure/java/shell.clj"}

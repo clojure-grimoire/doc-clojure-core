@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn split-lines\n  \"Splits s on \\\\n or \\\\r\\\\n.\"\n  {:added \"1.2\"}\n  [^CharSequence s]\n  (split s #\"\\r?\\n\"))", :ns "clojure.string", :name "split-lines", :arglists ([s]), :added "1.2", :doc "Splits s on \\n or \\r\\n.", :line 178, :file "clojure/string.clj"}

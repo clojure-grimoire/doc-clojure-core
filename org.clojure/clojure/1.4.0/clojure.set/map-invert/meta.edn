@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn map-invert\n  \"Returns the map with the vals mapped to the keys.\"\n  {:added \"1.0\"}\n  [m] (reduce (fn [m [k v]] (assoc m v k)) {} m))", :ns "clojure.set", :name "map-invert", :arglists ([m]), :added "1.0", :doc "Returns the map with the vals mapped to the keys.", :line 106, :file "clojure/set.clj"}

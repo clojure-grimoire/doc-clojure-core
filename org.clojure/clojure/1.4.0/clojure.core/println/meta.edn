@@ -1,0 +1,1 @@
+{:arglists ([& more]), :ns "clojure.core", :name "println", :src "(defn println\n  \"Same as print followed by (newline)\"\n  {:added \"1.0\"\n   :static true}\n  [& more]\n    (binding [*print-readably* nil]\n      (apply prn more)))", :added "1.0", :static true, :type :fn, :doc "Same as print followed by (newline)", :line 3325, :file "clojure/core.clj"}

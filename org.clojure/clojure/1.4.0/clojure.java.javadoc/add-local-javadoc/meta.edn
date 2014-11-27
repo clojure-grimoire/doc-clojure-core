@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-local-javadoc\n  \"Adds to the list of local Javadoc paths.\"\n  {:added \"1.2\"}\n  [path]\n  (dosync (commute *local-javadocs* conj path)))", :ns "clojure.java.javadoc", :name "add-local-javadoc", :arglists ([path]), :added "1.2", :doc "Adds to the list of local Javadoc paths.", :line 39, :file "clojure/java/javadoc.clj"}

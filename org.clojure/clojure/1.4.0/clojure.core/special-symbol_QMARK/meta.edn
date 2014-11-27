@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.core", :name "special-symbol?", :src "(defn special-symbol?\n  \"Returns true if s names a special form\"\n  {:added \"1.0\"\n   :static true}\n  [s]\n    (contains? (. clojure.lang.Compiler specials) s))", :added "1.0", :static true, :type :fn, :doc "Returns true if s names a special form", :line 4398, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([map key]), :ns "clojure.core", :name "find", :src "(defn find\n  \"Returns the map entry for key, or nil if key not present.\"\n  {:added \"1.0\"\n   :static true}\n  [map key] (. clojure.lang.RT (find map key)))", :added "1.0", :static true, :type :fn, :doc "Returns the map entry for key, or nil if key not present.", :line 1428, :file "clojure/core.clj"}

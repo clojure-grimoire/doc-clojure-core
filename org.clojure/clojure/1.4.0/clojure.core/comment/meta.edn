@@ -1,0 +1,1 @@
+{:arglists ([& body]), :ns "clojure.core", :name "comment", :src "(defmacro comment\n  \"Ignores body, yields nil\"\n  {:added \"1.0\"}\n  [& body])", :added "1.0", :type :macro, :doc "Ignores body, yields nil", :macro true, :line 4165, :file "clojure/core.clj"}

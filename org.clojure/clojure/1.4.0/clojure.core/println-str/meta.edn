@@ -1,0 +1,1 @@
+{:arglists ([& xs]), :ns "clojure.core", :name "println-str", :src "(defn println-str\n  \"println to a string, returning it\"\n  {:tag String\n   :added \"1.0\"\n   :static true}\n  [& xs]\n    (with-out-str\n     (apply println xs)))", :added "1.0", :static true, :type :fn, :doc "println to a string, returning it", :line 4217, :file "clojure/core.clj", :tag java.lang.String}

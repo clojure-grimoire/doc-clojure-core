@@ -1,0 +1,1 @@
+{:arglists ([coll]), :ns "clojure.core", :name "reversible?", :src "(defn reversible?\n \"Returns true if coll implements Reversible\"\n {:added \"1.0\"\n   :static true}\n  [coll] (instance? clojure.lang.Reversible coll))", :added "1.0", :static true, :type :fn, :doc "Returns true if coll implements Reversible", :line 5538, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "fnext", :src "(def\n ^{:doc \"Same as (first (next x))\"\n   :arglists '([x])\n   :added \"1.0\"\n   :static true}\n fnext (fn ^:static fnext [x] (first (next x))))", :added "1.0", :static true, :type :fn, :doc "Same as (first (next x))", :line 110, :file "clojure/core.clj"}

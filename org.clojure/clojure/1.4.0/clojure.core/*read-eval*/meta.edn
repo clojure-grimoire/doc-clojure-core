@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*read-eval*", :src nil, :added "1.0", :type :var, :doc "When set to logical false, the EvalReader (#=(...)) is disabled in the \n  read/load in the thread-local binding.\n  Example: (binding [*read-eval* false] (read-string \"#=(eval (def x 3))\"))\n\n  Defaults to true"}

@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "class", :src "(defn class\n  \"Returns the Class of x\"\n  {:added \"1.0\"\n   :static true}\n  ^Class [^Object x] (if (nil? x) x (. x (getClass))))", :added "1.0", :static true, :type :fn, :doc "Returns the Class of x", :line 3048, :file "clojure/core.clj"}

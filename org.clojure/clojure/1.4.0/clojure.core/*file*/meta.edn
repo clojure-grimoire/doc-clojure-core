@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*file*", :src nil, :added "1.0", :type :var, :doc "The path of the file being evaluated, as a String.\n\n  Evaluates to nil when there is no file, eg. in the REPL."}

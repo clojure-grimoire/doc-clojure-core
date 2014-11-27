@@ -1,0 +1,1 @@
+{:arglists ([f]), :ns "clojure.core", :name "future-cancelled?", :src "(defn future-cancelled?\n  \"Returns true if future f is cancelled\"\n  {:added \"1.1\"\n   :static true}\n  [^java.util.concurrent.Future f] (.isCancelled f))", :added "1.1", :static true, :type :fn, :doc "Returns true if future f is cancelled", :line 6188, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([& filters]), :ns "clojure.core", :name "refer-clojure", :src "(defmacro refer-clojure\n  \"Same as (refer 'clojure.core <filters>)\"\n  {:added \"1.0\"}\n  [& filters]\n  `(clojure.core/refer '~'clojure.core ~@filters))", :added "1.0", :type :macro, :doc "Same as (refer 'clojure.core <filters>)", :macro true, :line 5145, :file "clojure/core.clj"}

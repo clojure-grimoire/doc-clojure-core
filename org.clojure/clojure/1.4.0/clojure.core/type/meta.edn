@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "type", :src "(defn type \n  \"Returns the :type metadata of x, or its Class if none\"\n  {:added \"1.0\"\n   :static true}\n  [x]\n  (or (get (meta x) :type) (class x)))", :added "1.0", :static true, :type :fn, :doc "Returns the :type metadata of x, or its Class if none", :line 3054, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "num", :src "(defn num\n  \"Coerce to Number\"\n  {:tag Number\n   :inline (fn  [x] `(. clojure.lang.Numbers (num ~x)))\n   :added \"1.0\"}\n  [x] (. clojure.lang.Numbers (num x)))", :added "1.0", :type :fn, :doc "Coerce to Number", :line 3061, :file "clojure/core.clj", :tag java.lang.Number}

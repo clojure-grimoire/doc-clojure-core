@@ -1,0 +1,1 @@
+{:arglists ([x n]), :ns "clojure.core", :name "bit-test", :src "(defn bit-test\n  \"Test bit at index n\"\n  {:added \"1.0\"\n   :static true}\n  [x n] (. clojure.lang.Numbers testBit x n))", :added "1.0", :static true, :type :fn, :doc "Test bit at index n", :line 1285, :file "clojure/core.clj"}

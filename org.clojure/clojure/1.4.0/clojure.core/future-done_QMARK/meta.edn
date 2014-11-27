@@ -1,0 +1,1 @@
+{:arglists ([f]), :ns "clojure.core", :name "future-done?", :src "(defn future-done?\n  \"Returns true if future f is done\"\n  {:added \"1.1\"\n   :static true}\n  [^java.util.concurrent.Future f] (.isDone f))", :added "1.1", :static true, :type :fn, :doc "Returns true if future f is done", :line 5782, :file "clojure/core.clj"}

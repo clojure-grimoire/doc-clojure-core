@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti table-model class)", :ns "clojure.inspector", :name "table-model", :line 135, :file "clojure/inspector.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([a]), :ns "clojure.core", :name "error-mode", :src "(defn error-mode\n  \"Returns the error-mode of agent a.  See set-error-mode!\"\n  {:added \"1.2\"\n   :static true}\n  [^clojure.lang.Agent a]\n  (.getErrorMode a))", :added "1.2", :static true, :type :fn, :doc "Returns the error-mode of agent a.  See set-error-mode!", :line 1998, :file "clojure/core.clj"}

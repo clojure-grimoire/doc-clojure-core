@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "zero?", :src "(defn zero?\n  \"Returns true if num is zero, else false\"\n  {\n   :inline (fn [x] `(. clojure.lang.Numbers (isZero ~x)))\n   :added \"1.0\"}\n  [x] (. clojure.lang.Numbers (isZero x)))", :added "1.0", :type :fn, :doc "Returns true if num is zero, else false", :line 803, :file "clojure/core.clj"}

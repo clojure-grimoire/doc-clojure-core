@@ -1,0 +1,1 @@
+{:arglists ([x]), :ns "clojure.core", :name "delay?", :src "(defn delay?\n  \"returns true if x is a Delay created with delay\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.Delay x))", :added "1.0", :static true, :type :fn, :doc "returns true if x is a Delay created with delay", :line 691, :file "clojure/core.clj"}

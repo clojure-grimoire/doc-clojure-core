@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "*warn-on-reflection*", :src nil, :added "1.0", :type :var, :doc "When set to true, the compiler will emit warnings when reflection is\n  needed to resolve Java method calls or field accesses.\n\n  Defaults to false."}

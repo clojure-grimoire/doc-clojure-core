@@ -1,0 +1,1 @@
+{:arglists ([xs]), :ns "clojure.core", :name "doubles", :src "(definline doubles\n  \"Casts to double[]\"\n  {:added \"1.0\"}\n  [xs] `(. clojure.lang.Numbers doubles ~xs))", :added "1.0", :type :fn, :doc "Casts to double[]", :line 4722, :file "clojure/core.clj"}

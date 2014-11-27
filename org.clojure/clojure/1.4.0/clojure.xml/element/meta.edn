@@ -1,0 +1,1 @@
+{:type :var, :src "(defstruct element :tag :attrs :content)", :ns "clojure.xml", :name "element", :line 20, :file "clojure/xml.clj"}

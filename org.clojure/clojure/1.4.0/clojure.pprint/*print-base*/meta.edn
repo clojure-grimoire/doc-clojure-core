@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic\n ^{:doc \"The base to use for printing integers and rationals.\"\n   :added \"1.2\"}\n *print-base* 10)", :ns "clojure.pprint", :name "*print-base*", :dynamic true, :added "1.2", :doc "The base to use for printing integers and rationals.", :line 87, :file "clojure/pprint/pprint_base.clj"}

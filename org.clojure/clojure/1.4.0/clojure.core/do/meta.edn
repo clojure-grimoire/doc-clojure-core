@@ -1,0 +1,1 @@
+{:arglists [(do exprs*)], :ns "clojure.core", :name do, :src ";; Special forms have no source", :column nil, :type :special, :doc "Evaluates the expressions in order and returns the value of\n  the last. If no expressions are supplied, returns nil.", :line nil, :file nil}

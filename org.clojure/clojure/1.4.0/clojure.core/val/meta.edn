@@ -1,0 +1,1 @@
+{:arglists ([e]), :ns "clojure.core", :name "val", :src "(defn val\n  \"Returns the value in the map entry.\"\n  {:added \"1.0\"\n   :static true}\n  [^java.util.Map$Entry e]\n    (. e (getValue)))", :added "1.0", :static true, :type :fn, :doc "Returns the value in the map entry.", :line 1468, :file "clojure/core.clj"}

@@ -1,0 +1,1 @@
+{:arglists ([c x]), :ns "clojure.core", :name "cast", :src "(defn cast\n  \"Throws a ClassCastException if x is not a c, else returns x.\"\n  {:added \"1.0\"\n   :static true}\n  [^Class c x] \n  (. c (cast x)))", :added "1.0", :static true, :type :fn, :doc "Throws a ClassCastException if x is not a c, else returns x.", :line 313, :file "clojure/core.clj"}

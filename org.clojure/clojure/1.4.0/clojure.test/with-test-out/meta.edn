@@ -1,0 +1,1 @@
+{:arglists ([& body]), :ns "clojure.test", :name "with-test-out", :src "(defmacro with-test-out\n  \"Runs body with *out* bound to the value of *test-out*.\"\n  {:added \"1.1\"}\n  [& body]\n  `(binding [*out* *test-out*]\n     ~@body))", :added "1.1", :type :macro, :doc "Runs body with *out* bound to the value of *test-out*.", :macro true, :line 272, :file "clojure/test.clj"}

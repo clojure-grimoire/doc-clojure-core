@@ -1,0 +1,1 @@
+{:arglists ([ref]), :ns "clojure.core", :name "ref-history-count", :src "(defn ref-history-count\n  \"Returns the history count of a ref\"\n  {:added \"1.1\"\n   :static true}\n  [^clojure.lang.Ref ref]\n    (.getHistoryCount ref))", :added "1.1", :static true, :type :fn, :doc "Returns the history count of a ref", :line 2202, :file "clojure/core.clj"}

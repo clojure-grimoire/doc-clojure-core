@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn macroexpand-all\n  \"Recursively performs all possible macroexpansions in form.\"\n  {:added \"1.1\"}\n  [form]\n  (prewalk (fn [x] (if (seq? x) (macroexpand x) x)) form))", :ns "clojure.walk", :name "macroexpand-all", :arglists ([form]), :added "1.1", :doc "Recursively performs all possible macroexpansions in form.", :line 123, :file "clojure/walk.clj"}

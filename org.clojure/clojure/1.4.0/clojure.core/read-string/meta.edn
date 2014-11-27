@@ -1,0 +1,1 @@
+{:arglists ([s]), :ns "clojure.core", :name "read-string", :src "(defn read-string\n  \"Reads one object from the string s\"\n  {:added \"1.0\"\n   :static true}\n  [s] (clojure.lang.RT/readString s))", :added "1.0", :static true, :type :fn, :doc "Reads one object from the string s", :line 3357, :file "clojure/core.clj"}

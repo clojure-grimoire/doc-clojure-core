@@ -1,0 +1,1 @@
+{:type :fn, :src "(def\n ^{:arglists '([& items])\n   :doc \"Creates a new list containing the items.\"\n   :added \"1.0\"}\n  list (. clojure.lang.PersistentList creator))", :ns "clojure.core", :name "list", :arglists ([& items]), :added "1.0", :doc "Creates a new list containing the items.", :line 16, :file "clojure/core.clj"}

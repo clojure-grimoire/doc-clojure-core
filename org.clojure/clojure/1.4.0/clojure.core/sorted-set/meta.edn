@@ -1,0 +1,1 @@
+{:arglists ([& keys]), :ns "clojure.core", :name "sorted-set", :src "(defn sorted-set\n  \"Returns a new sorted set with supplied keys.\"\n  {:added \"1.0\"\n   :static true}\n  ([& keys]\n   (clojure.lang.PersistentTreeSet/create keys)))", :added "1.0", :static true, :type :fn, :doc "Returns a new sorted set with supplied keys.", :line 382, :file "clojure/core.clj"}
