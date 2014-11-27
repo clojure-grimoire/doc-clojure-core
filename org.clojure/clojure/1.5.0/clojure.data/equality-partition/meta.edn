@@ -1,1 +1,1 @@
-{:type :fn, :src nil, :ns "clojure.data", :protocol #'clojure.data/EqualityPartition, :doc "Implementation detail. Subject to change.", :arglists ([x]), :name "equality-partition", :added "1.3"}
+{:type :fn, :src nil, :ns "clojure.data", :doc "Implementation detail. Subject to change.", :arglists ([x]), :name "equality-partition", :added "1.3"}

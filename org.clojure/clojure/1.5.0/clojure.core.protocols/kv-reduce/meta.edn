@@ -1,1 +1,1 @@
-{:type :fn, :src nil, :ns "clojure.core.protocols", :protocol #'clojure.core.protocols/IKVReduce, :doc nil, :arglists ([amap f init]), :name "kv-reduce"}
+{:type :fn, :src nil, :ns "clojure.core.protocols", :doc nil, :arglists ([amap f init]), :name "kv-reduce"}

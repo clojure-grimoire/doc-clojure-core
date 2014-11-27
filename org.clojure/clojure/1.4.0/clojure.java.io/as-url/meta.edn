@@ -1,1 +1,1 @@
-{:type :fn, :src nil, :ns "clojure.java.io", :protocol #'clojure.java.io/Coercions, :doc "Coerce argument to a URL.", :arglists ([x]), :name "as-url", :added "1.2", :tag java.net.URL}
+{:type :fn, :src nil, :ns "clojure.java.io", :doc "Coerce argument to a URL.", :arglists ([x]), :name "as-url", :added "1.2", :tag java.net.URL}
