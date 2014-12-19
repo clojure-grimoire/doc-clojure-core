@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "bit-clear", :file "clojure/core.clj", :static true, :type :fn, :src "(defn bit-clear\n  \"Clear bit at index n\"\n  {:added \"1.0\"\n   :static true}\n  [x n] (. clojure.lang.Numbers clearBit x n))", :column 1, :line 1292, :arglists ([x n]), :doc "Clear bit at index n"}

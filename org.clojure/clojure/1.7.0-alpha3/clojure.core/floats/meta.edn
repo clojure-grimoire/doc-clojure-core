@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "floats", :file "clojure/core.clj", :type :fn, :src "(definline floats\n  \"Casts to float[]\"\n  {:added \"1.0\"}\n  [xs] `(. clojure.lang.Numbers floats ~xs))", :column 1, :line 5084, :arglists ([xs]), :doc "Casts to float[]"}

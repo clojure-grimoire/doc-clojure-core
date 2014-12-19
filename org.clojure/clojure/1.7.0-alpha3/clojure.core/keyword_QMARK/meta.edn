@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "keyword?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn keyword?\n  \"Return true if x is a Keyword\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.Keyword x))", :column 1, :line 537, :arglists ([x]), :doc "Return true if x is a Keyword"}

@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "printf", :file "clojure/core.clj", :static true, :type :fn, :src "(defn printf\n  \"Prints formatted output, as per format\"\n  {:added \"1.0\"\n   :static true}\n  [fmt & args]\n  (print (apply format fmt args)))", :column 1, :line 5453, :arglists ([fmt & args]), :doc "Prints formatted output, as per format"}

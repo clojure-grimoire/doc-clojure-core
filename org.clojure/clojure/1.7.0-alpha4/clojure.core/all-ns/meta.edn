@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "all-ns", :file "clojure/core.clj", :static true, :type :fn, :src "(defn all-ns\n  \"Returns a sequence of all namespaces.\"\n  {:added \"1.0\"\n   :static true}\n  [] (clojure.lang.Namespace/all))", :column 1, :line 3966, :arglists ([]), :doc "Returns a sequence of all namespaces."}

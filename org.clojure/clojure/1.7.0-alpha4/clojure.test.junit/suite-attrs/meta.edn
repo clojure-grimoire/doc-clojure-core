@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn suite-attrs\n  [package classname]\n  (let [attrs {:name classname}]\n    (if package\n      (assoc attrs :package package)\n      attrs)))", :ns "clojure.test.junit", :name "suite-attrs", :file "clojure/test/junit.clj", :column 1, :line 97, :arglists ([package classname])}

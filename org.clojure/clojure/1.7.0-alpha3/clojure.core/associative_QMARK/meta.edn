@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "associative?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn associative?\n \"Returns true if coll implements Associative\"\n {:added \"1.0\"\n  :static true}\n  [coll] (instance? clojure.lang.Associative coll))", :column 1, :line 5924, :arglists ([coll]), :doc "Returns true if coll implements Associative"}

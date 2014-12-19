@@ -1,0 +1,1 @@
+{:added "1.5", :ns "clojure.core", :name "set-agent-send-executor!", :file "clojure/core.clj", :type :fn, :src "(defn set-agent-send-executor!\n  \"Sets the ExecutorService to be used by send\"\n  {:added \"1.5\"}\n  [executor]\n  (set! clojure.lang.Agent/pooledExecutor executor))", :column 1, :line 1971, :arglists ([executor]), :doc "Sets the ExecutorService to be used by send"}

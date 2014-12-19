@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name throw, :file nil, :type :special, :src ";; Special forms have no source", :column nil, :line nil, :arglists [(throw expr)], :doc "The expr is evaluated and thrown, therefore it should\n  yield an instance of some derivee of Throwable."}

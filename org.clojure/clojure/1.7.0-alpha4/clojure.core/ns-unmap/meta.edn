@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "ns-unmap", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ns-unmap\n  \"Removes the mappings for the symbol from the namespace.\"\n  {:added \"1.0\"\n   :static true}\n  [ns sym]\n  (.unmap (the-ns ns) sym))", :column 1, :line 3997, :arglists ([ns sym]), :doc "Removes the mappings for the symbol from the namespace."}

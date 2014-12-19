@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "var?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn var?\n  \"Returns true if v is of type clojure.lang.Var\"\n  {:added \"1.0\"\n   :static true}\n  [v] (instance? clojure.lang.Var v))", :column 1, :line 4730, :arglists ([v]), :doc "Returns true if v is of type clojure.lang.Var"}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn element-content\n  [content]\n  (print (escape-xml content)))", :ns "clojure.test.junit", :name "element-content", :file "clojure/test/junit.clj", :column 1, :line 66, :arglists ([content])}

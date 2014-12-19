@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *depth*)", :ns "clojure.test.junit", :name "*depth*", :file "clojure/test/junit.clj", :column 1, :dynamic true, :line 49}

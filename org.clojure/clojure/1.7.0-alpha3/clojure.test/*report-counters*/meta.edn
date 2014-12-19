@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *report-counters* nil)", :ns "clojure.test", :name "*report-counters*", :file "clojure/test.clj", :column 1, :dynamic true, :line 261}

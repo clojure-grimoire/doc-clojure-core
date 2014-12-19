@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn test-name\n  [vars]\n  (apply str (interpose \".\"\n                        (reverse (map #(:name (meta %)) vars)))))", :ns "clojure.test.junit", :name "test-name", :file "clojure/test/junit.clj", :column 1, :line 77, :arglists ([vars])}

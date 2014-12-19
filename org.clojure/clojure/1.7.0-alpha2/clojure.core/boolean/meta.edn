@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "boolean", :file "clojure/core.clj", :type :fn, :src "(defn boolean\n  \"Coerce to boolean\"\n  {\n   :inline (fn  [x] `(. clojure.lang.RT (booleanCast ~x)))\n   :added \"1.0\"}\n  [x] (clojure.lang.RT/booleanCast x))", :column 1, :line 3366, :arglists ([x]), :doc "Coerce to boolean"}

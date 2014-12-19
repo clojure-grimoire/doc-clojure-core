@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "longs", :file "clojure/core.clj", :type :fn, :src "(definline longs\n  \"Casts to long[]\"\n  {:added \"1.0\"}\n  [xs] `(. clojure.lang.Numbers longs ~xs))", :column 1, :line 5087, :arglists ([xs]), :doc "Casts to long[]"}
