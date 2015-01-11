@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn failure-el\n  [message expected actual]\n  (message-el 'failure message (pr-str expected) (pr-str actual)))", :ns "clojure.test.junit", :name "failure-el", :arglists ([message expected actual]), :line 128, :file "clojure/test/junit.clj"}
