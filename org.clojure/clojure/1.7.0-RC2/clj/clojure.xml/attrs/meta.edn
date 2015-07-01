@@ -1,0 +1,1 @@
+{:line 23, :column 1, :file "clojure/xml.clj", :name "attrs", :ns "clojure.xml", :src "(def attrs (accessor element :attrs))", :type :var}

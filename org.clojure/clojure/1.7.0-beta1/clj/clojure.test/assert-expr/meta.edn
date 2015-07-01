@@ -1,0 +1,1 @@
+{:line 463, :column 1, :file "clojure/test.clj", :name "assert-expr", :ns "clojure.test", :src "(defmulti assert-expr \n  (fn [msg form]\n    (cond\n      (nil? form) :always-fail\n      (seq? form) (first form)\n      :else :default)))", :type :fn}

@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.zip", :name "path", :file "clojure/zip.clj", :type :fn, :src "(defn path\n  \"Returns a seq of nodes leading to this loc\"\n  {:added \"1.0\"}\n  [loc]\n    (:pnodes (loc 1)))", :column 1, :line 90, :arglists ([loc]), :doc "Returns a seq of nodes leading to this loc"}

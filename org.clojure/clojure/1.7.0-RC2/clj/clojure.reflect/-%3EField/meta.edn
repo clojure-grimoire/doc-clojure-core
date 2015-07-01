@@ -1,0 +1,1 @@
+{:arglists ([name type declaring-class flags]), :doc "Positional factory function for class clojure.reflect.Field.", :line 148, :column 1, :file "clojure/reflect/java.clj", :name "->Field", :ns "clojure.reflect", :src "(defrecord Field\n  [name type declaring-class flags])", :type :fn}

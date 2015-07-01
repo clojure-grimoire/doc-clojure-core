@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *testing-contexts* (list))", :ns "clojure.test", :name "*testing-contexts*", :file "clojure/test.clj", :column 1, :dynamic true, :line 268}

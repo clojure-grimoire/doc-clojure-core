@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn finish-case\n  []\n  (finish-element 'testcase true))", :ns "clojure.test.junit", :name "finish-case", :file "clojure/test/junit.clj", :column 1, :line 93, :arglists ([])}

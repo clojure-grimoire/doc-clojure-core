@@ -1,0 +1,1 @@
+{:doc "Sequentially read and evaluate the set of forms contained in the file.", :arglists ([name]), :name "load-file", :ns "clojure.core", :added "1.0", :src nil, :type :var}

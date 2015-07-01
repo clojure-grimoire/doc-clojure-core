@@ -1,0 +1,1 @@
+{:arglists ([m__6249__auto__]), :doc "Factory function for class clojure.reflect.Field, taking a map of keywords to field values.", :line 148, :column 1, :file "clojure/reflect/java.clj", :name "map->Field", :ns "clojure.reflect", :src "(defrecord Field\n  [name type declaring-class flags])", :type :fn}

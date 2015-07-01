@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *verbose-defrecords* false)", :ns "clojure.core", :name "*verbose-defrecords*", :file "clojure/core_print.clj", :column 1, :dynamic true, :line 38}

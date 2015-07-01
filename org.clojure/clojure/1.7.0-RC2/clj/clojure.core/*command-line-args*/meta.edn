@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "*command-line-args*", :type :var, :src nil, :doc "A sequence of the supplied command line arguments, or nil if\n  none were supplied"}

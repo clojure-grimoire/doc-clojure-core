@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *feeling-lucky* true)", :ns "clojure.java.javadoc", :name "*feeling-lucky*", :file "clojure/java/javadoc.clj", :column 1, :dynamic true, :line 17}

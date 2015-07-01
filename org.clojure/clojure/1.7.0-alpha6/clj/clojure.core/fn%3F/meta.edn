@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "fn?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn fn?\n  \"Returns true if x implements Fn, i.e. is an object created via fn.\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.Fn x))", :column 1, :line 5967, :arglists ([x]), :doc "Returns true if x implements Fn, i.e. is an object created via fn."}

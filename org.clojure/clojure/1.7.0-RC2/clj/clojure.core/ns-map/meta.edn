@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "ns-map", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ns-map\n  \"Returns a map of all the mappings for the namespace.\"\n  {:added \"1.0\"\n   :static true}\n  [ns]\n  (.getMappings (the-ns ns)))", :column 1, :line 4017, :arglists ([ns]), :doc "Returns a map of all the mappings for the namespace."}

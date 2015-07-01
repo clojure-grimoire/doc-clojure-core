@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "split-at", :file "clojure/core.clj", :static true, :type :fn, :src "(defn split-at\n  \"Returns a vector of [(take n coll) (drop n coll)]\"\n  {:added \"1.0\"\n   :static true}\n  [n coll]\n    [(take n coll) (drop n coll)])", :column 1, :line 2852, :arglists ([n coll]), :doc "Returns a vector of [(take n coll) (drop n coll)]"}

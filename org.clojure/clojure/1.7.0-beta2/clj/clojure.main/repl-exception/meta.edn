@@ -1,0 +1,1 @@
+{:arglists ([throwable]), :doc "Returns the root cause of throwables", :line 144, :column 1, :file "clojure/main.clj", :name "repl-exception", :ns "clojure.main", :src "(defn repl-exception\n  \"Returns the root cause of throwables\"\n  [throwable]\n  (root-cause throwable))", :type :fn}

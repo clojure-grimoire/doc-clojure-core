@@ -1,0 +1,1 @@
+{:dynamic true, :line 263, :column 1, :file "clojure/test.clj", :name "*initial-report-counters*", :ns "clojure.test", :src "(def ^:dynamic *initial-report-counters*  ; used to initialize *report-counters*\n     {:test 0, :pass 0, :fail 0, :error 0})", :type :var}

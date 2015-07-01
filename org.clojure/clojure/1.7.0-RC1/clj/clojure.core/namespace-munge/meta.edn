@@ -1,0 +1,1 @@
+{:added "1.2", :ns "clojure.core", :name "namespace-munge", :file "clojure/core_deftype.clj", :type :fn, :src "(defn namespace-munge\n  \"Convert a Clojure namespace name to a legal Java package name.\"\n  {:added \"1.2\"}\n  [ns]\n  (.replace (str ns) \\- \\_))", :column 1, :line 13, :arglists ([ns]), :doc "Convert a Clojure namespace name to a legal Java package name."}

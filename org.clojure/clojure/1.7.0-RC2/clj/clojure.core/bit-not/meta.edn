@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "bit-not", :file "clojure/core.clj", :type :fn, :src "(defn bit-not\n  \"Bitwise complement\"\n  {:inline (fn [x] `(. clojure.lang.Numbers (not ~x)))\n   :added \"1.0\"}\n  [x] (. clojure.lang.Numbers not x))", :column 1, :line 1251, :arglists ([x]), :doc "Bitwise complement"}
