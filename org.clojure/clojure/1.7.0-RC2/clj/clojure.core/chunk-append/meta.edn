@@ -1,0 +1,1 @@
+{:static true, :arglists ([b x]), :line 660, :column 1, :file "clojure/core.clj", :name "chunk-append", :ns "clojure.core", :src "(defn ^:static chunk-append [^clojure.lang.ChunkBuffer b x]\n  (.add b x))", :type :fn}

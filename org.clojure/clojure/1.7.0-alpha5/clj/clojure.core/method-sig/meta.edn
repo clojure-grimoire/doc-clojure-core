@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn method-sig [^java.lang.reflect.Method meth]\n  [(. meth (getName)) (seq (. meth (getParameterTypes))) (. meth getReturnType)])", :ns "clojure.core", :name "method-sig", :file "clojure/core_proxy.clj", :column 1, :line 19, :arglists ([meth])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(def unquote)", :ns "clojure.core", :name "unquote", :file "clojure/core.clj", :column 1, :line 13}

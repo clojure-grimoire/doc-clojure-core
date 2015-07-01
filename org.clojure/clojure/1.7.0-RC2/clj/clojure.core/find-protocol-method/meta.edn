@@ -1,0 +1,1 @@
+{:arglists ([protocol methodk x]), :line 519, :column 1, :file "clojure/core_deftype.clj", :name "find-protocol-method", :ns "clojure.core", :src "(defn find-protocol-method [protocol methodk x]\n  (get (find-protocol-impl protocol x) methodk))", :type :fn}

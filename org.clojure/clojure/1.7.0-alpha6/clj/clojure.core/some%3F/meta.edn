@@ -1,0 +1,1 @@
+{:added "1.6", :ns "clojure.core", :name "some?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn some?\n  \"Returns true if x is not nil, false otherwise.\"\n  {:tag Boolean\n   :added \"1.6\"\n   :static true}\n  [x] (not (nil? x)))", :column 1, :line 508, :tag java.lang.Boolean, :arglists ([x]), :doc "Returns true if x is not nil, false otherwise."}

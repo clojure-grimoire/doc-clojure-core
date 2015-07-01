@@ -1,0 +1,1 @@
+{:added "1.2", :ns "clojure.core", :name "extenders", :file "clojure/core_deftype.clj", :type :fn, :src "(defn extenders \n  \"Returns a collection of the types explicitly extending protocol\"\n  {:added \"1.2\"}\n  [protocol]\n  (keys (:impls protocol)))", :column 1, :line 536, :arglists ([protocol]), :doc "Returns a collection of the types explicitly extending protocol"}

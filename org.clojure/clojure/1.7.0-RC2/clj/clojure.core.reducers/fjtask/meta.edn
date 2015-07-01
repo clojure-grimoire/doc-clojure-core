@@ -1,0 +1,1 @@
+{:arglists ([f]), :line 43, :column 4, :file "clojure/core/reducers.clj", :name "fjtask", :ns "clojure.core.reducers", :src "   (defn fjtask [^Callable f]\n     (java.util.concurrent.ForkJoinTask/adapt f))", :type :fn}

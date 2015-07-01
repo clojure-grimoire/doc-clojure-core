@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.reflect", :doc nil, :arglists ([reflector typeref]), :name "do-reflect"}

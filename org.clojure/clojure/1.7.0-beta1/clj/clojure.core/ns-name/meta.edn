@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "ns-name", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ns-name\n  \"Returns the name of the namespace, a symbol.\"\n  {:added \"1.0\"\n   :static true}\n  [ns]\n  (.getName (the-ns ns)))", :column 1, :line 4008, :arglists ([ns]), :doc "Returns the name of the namespace, a symbol."}

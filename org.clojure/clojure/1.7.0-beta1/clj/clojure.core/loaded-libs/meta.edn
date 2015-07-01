@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "loaded-libs", :file "clojure/core.clj", :type :fn, :src "(defn loaded-libs\n  \"Returns a sorted set of symbols naming the currently loaded libs\"\n  {:added \"1.0\"}\n  [] @*loaded-libs*)", :column 1, :line 5841, :arglists ([]), :doc "Returns a sorted set of symbols naming the currently loaded libs"}

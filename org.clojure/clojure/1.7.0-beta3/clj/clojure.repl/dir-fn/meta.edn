@@ -1,0 +1,1 @@
+{:arglists ([ns]), :doc "Returns a sorted seq of symbols naming public vars in\n  a namespace", :line 182, :column 1, :file "clojure/repl.clj", :name "dir-fn", :ns "clojure.repl", :src "(defn dir-fn\n  \"Returns a sorted seq of symbols naming public vars in\n  a namespace\"\n  [ns]\n  (sort (map first (ns-publics (the-ns ns)))))", :type :fn}

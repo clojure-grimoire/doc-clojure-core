@@ -1,0 +1,1 @@
+{:arglists ([name declaring-class parameter-types exception-types flags]), :doc "Positional factory function for class clojure.reflect.Constructor.", :line 109, :column 1, :file "clojure/reflect/java.clj", :name "->Constructor", :ns "clojure.reflect", :src "(defrecord Constructor\n  [name declaring-class parameter-types exception-types flags])", :type :fn}

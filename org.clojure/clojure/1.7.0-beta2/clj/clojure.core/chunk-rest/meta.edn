@@ -1,0 +1,1 @@
+{:ns "clojure.core", :name "chunk-rest", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ^:static ^clojure.lang.ISeq chunk-rest ^clojure.lang.ISeq [^clojure.lang.IChunkedSeq s]\n  (.chunkedMore s))", :column 1, :line 667, :tag clojure.lang.ISeq, :arglists ([s])}

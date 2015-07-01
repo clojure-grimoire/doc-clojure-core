@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Method\n  [name return-type declaring-class parameter-types exception-types flags])", :ns "clojure.reflect", :name "map->Method", :file "clojure/reflect/java.clj", :column 1, :line 128, :arglists ([m__6238__auto__]), :doc "Factory function for class clojure.reflect.Method, taking a map of keywords to field values."}

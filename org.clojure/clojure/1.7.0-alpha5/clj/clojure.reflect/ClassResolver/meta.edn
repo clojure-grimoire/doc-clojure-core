@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol ClassResolver\n  (^InputStream resolve-class [this name]\n                \"Given a class name, return that typeref's class bytes as an InputStream.\"))", :doc nil, :ns "clojure.reflect", :name "ClassResolver", :file "clojure/reflect/java.clj", :column 1, :line 184}

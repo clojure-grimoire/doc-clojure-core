@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.reducers", :doc nil, :arglists ([coll n combinef reducef]), :name "coll-fold"}

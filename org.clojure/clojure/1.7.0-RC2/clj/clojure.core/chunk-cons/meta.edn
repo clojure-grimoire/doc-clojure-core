@@ -1,0 +1,1 @@
+{:static true, :arglists ([chunk rest]), :line 675, :column 1, :file "clojure/core.clj", :name "chunk-cons", :ns "clojure.core", :src "(defn ^:static chunk-cons [chunk rest]\n  (if (clojure.lang.Numbers/isZero (clojure.lang.RT/count chunk))\n    rest\n    (clojure.lang.ChunkedCons. chunk rest)))", :type :fn}
