@@ -1,1 +1,1 @@
-{:type :var, :src "(defmulti is-leaf collection-tag)", :ns "clojure.inspector", :name "is-leaf", :file "clojure/inspector.clj", :column 1, :line 31}
+{:type :fn, :src "(defmulti is-leaf collection-tag)", :ns "clojure.inspector", :name "is-leaf", :file "clojure/inspector.clj", :column 1, :line 31}
