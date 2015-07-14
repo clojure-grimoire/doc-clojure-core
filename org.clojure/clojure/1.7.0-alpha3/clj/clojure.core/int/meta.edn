@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "int", :file "clojure/core.clj", :type :fn, :src "(defn int\n  \"Coerce to int\"\n  {\n   :inline (fn  [x] `(. clojure.lang.RT (~(if *unchecked-math* 'uncheckedIntCast 'intCast) ~x)))\n   :added \"1.0\"}\n  [x] (. clojure.lang.RT (intCast x)))", :column 1, :line 843, :arglists ([x]), :doc "Coerce to int"}

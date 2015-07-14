@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "class?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn class?\n  \"Returns true if x is an instance of Class\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? Class x))", :column 1, :line 5140, :arglists ([x]), :doc "Returns true if x is an instance of Class"}

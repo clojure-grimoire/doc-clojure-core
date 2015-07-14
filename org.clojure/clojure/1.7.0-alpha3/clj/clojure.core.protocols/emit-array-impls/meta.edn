@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro emit-array-impls\n  [& syms]\n  `(extend-protocol InternalReduce\n     ~@(emit-array-impls* syms)))", :macro true, :ns "clojure.core.protocols", :name "emit-array-impls", :file "clojure/core/protocols.clj", :column 1, :line 178, :arglists ([& syms])}

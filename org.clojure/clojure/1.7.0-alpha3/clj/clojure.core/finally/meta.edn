@@ -1,2 +1,0 @@
-{:type :sentinel
- :target "clojure.core/try"}

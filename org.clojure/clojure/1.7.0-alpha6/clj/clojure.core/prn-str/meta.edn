@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "prn-str", :file "clojure/core.clj", :static true, :type :fn, :src "(defn prn-str\n  \"prn to a string, returning it\"\n  {:tag String\n   :added \"1.0\"\n   :static true}\n  [& xs]\n  (with-out-str\n   (apply prn xs)))", :column 1, :line 4565, :tag java.lang.String, :arglists ([& xs]), :doc "prn to a string, returning it"}

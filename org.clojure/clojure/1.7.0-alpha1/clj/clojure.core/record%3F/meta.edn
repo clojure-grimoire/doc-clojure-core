@@ -1,1 +1,0 @@
-{:added "1.6", :ns "clojure.core", :name "record?", :file "clojure/core_deftype.clj", :static true, :type :fn, :src "(defn record?\n  \"Returns true if x is a record\"\n  {:added \"1.6\"\n   :static true}\n  [x]\n  (instance? clojure.lang.IRecord x))", :column 1, :line 372, :arglists ([x]), :doc "Returns true if x is a record"}

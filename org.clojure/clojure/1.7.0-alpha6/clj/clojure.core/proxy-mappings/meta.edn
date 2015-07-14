@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "proxy-mappings", :file "clojure/core_proxy.clj", :type :fn, :src "(defn proxy-mappings\n  \"Takes a proxy instance and returns the proxy's fn map.\"\n  {:added \"1.0\"}\n  [^IProxy proxy]\n    (. proxy (__getClojureFnMappings)))", :column 1, :line 297, :arglists ([proxy]), :doc "Takes a proxy instance and returns the proxy's fn map."}

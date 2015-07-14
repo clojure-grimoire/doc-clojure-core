@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.zip", :name "branch?", :file "clojure/zip.clj", :type :fn, :src "(defn branch?\n  \"Returns true if the node at loc is a branch\"\n  {:added \"1.0\"}\n  [loc]\n    ((:zip/branch? (meta loc)) (node loc)))", :column 1, :line 69, :arglists ([loc]), :doc "Returns true if the node at loc is a branch"}

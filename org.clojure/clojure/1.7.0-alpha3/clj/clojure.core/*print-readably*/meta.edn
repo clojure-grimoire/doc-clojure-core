@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "*print-readably*", :type :var, :src nil, :doc "When set to logical false, strings and characters will be printed with\n  non-alphanumeric characters converted to the appropriate escape sequences.\n\n  Defaults to true"}

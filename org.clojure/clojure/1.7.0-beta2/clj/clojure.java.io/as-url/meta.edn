@@ -1,1 +1,0 @@
-{:tag java.net.URL, :added "1.2", :name "as-url", :arglists ([x]), :doc "Coerce argument to a URL.", :ns "clojure.java.io", :src nil, :type :fn}

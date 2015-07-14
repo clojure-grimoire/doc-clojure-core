@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.zip", :name "edit", :file "clojure/zip.clj", :type :fn, :src "(defn edit\n  \"Replaces the node at this loc with the value of (f node args)\"\n  {:added \"1.0\"}\n  [loc f & args]\n    (replace loc (apply f (node loc) args)))", :column 1, :line 210, :arglists ([loc f & args]), :doc "Replaces the node at this loc with the value of (f node args)"}

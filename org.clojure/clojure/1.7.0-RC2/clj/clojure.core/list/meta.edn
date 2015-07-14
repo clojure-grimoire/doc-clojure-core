@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "list", :file "clojure/core.clj", :type :fn, :src "(def\n ^{:arglists '([& items])\n   :doc \"Creates a new list containing the items.\"\n   :added \"1.0\"}\n  list (. clojure.lang.PersistentList creator))", :column 1, :line 16, :arglists ([& items]), :doc "Creates a new list containing the items."}

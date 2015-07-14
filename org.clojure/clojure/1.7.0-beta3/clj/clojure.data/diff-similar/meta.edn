@@ -1,1 +1,0 @@
-{:added "1.3", :name "diff-similar", :arglists ([a b]), :doc "Implementation detail. Subject to change.", :ns "clojure.data", :src nil, :type :fn}

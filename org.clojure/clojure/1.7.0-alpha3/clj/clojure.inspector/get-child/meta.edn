@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti get-child (fn [parent index] (collection-tag parent)))", :ns "clojure.inspector", :name "get-child", :file "clojure/inspector.clj", :column 1, :line 32}

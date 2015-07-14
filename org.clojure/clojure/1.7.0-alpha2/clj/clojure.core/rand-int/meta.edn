@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "rand-int", :file "clojure/core.clj", :static true, :type :fn, :src "(defn rand-int\n  \"Returns a random integer between 0 (inclusive) and n (exclusive).\"\n  {:added \"1.0\"\n   :static true}\n  [n] (int (rand n)))", :column 1, :line 4674, :arglists ([n]), :doc "Returns a random integer between 0 (inclusive) and n (exclusive)."}

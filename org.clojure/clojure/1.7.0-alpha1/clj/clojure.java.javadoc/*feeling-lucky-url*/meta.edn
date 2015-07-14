@@ -1,1 +1,0 @@
-{:type :var, :src "(def ^:dynamic *feeling-lucky-url* \"http://www.google.com/search?btnI=I%27m%20Feeling%20Lucky&q=allinurl:\")", :ns "clojure.java.javadoc", :name "*feeling-lucky-url*", :file "clojure/java/javadoc.clj", :column 1, :dynamic true, :line 16}

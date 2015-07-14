@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "print-str", :file "clojure/core.clj", :static true, :type :fn, :src "(defn print-str\n  \"print to a string, returning it\"\n  {:tag String\n   :added \"1.0\"\n   :static true}\n  [& xs]\n    (with-out-str\n     (apply print xs)))", :column 1, :line 4574, :tag java.lang.String, :arglists ([& xs]), :doc "print to a string, returning it"}

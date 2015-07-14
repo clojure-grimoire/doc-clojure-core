@@ -1,1 +1,0 @@
-{:arglists ([name]), :line 82, :column 1, :file "clojure/test/junit.clj", :name "package-class", :ns "clojure.test.junit", :src "(defn package-class\n  [name]\n  (let [i (.lastIndexOf name \".\")]\n    (if (< i 0)\n      [nil name]\n      [(.substring name 0 i) (.substring name (+ i 1))])))", :type :fn}

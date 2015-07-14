@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -reset-methods [protocol]\n  (doseq [[^clojure.lang.Var v build] (:method-builders protocol)]\n    (let [cache (clojure.lang.MethodImplCache. protocol (keyword (.sym v)))]\n      (.bindRoot v (build cache)))))", :ns "clojure.core", :name "-reset-methods", :file "clojure/core_deftype.clj", :column 1, :line 578, :arglists ([protocol])}

@@ -1,1 +1,0 @@
-{:static true, :arglists ([s]), :line 678, :column 1, :file "clojure/core.clj", :name "chunked-seq?", :ns "clojure.core", :src "(defn ^:static chunked-seq? [s]\n  (instance? clojure.lang.IChunkedSeq s))", :type :fn}

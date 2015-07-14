@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.zip", :name "end?", :file "clojure/zip.clj", :type :fn, :src "(defn end?\n  \"Returns true if loc represents the end of a depth-first walk\"\n  {:added \"1.0\"}\n  [loc]\n    (= :end (loc 1)))", :column 1, :line 258, :arglists ([loc]), :doc "Returns true if loc represents the end of a depth-first walk"}

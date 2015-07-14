@@ -1,1 +1,0 @@
-{:added "1.1", :ns "clojure.core", :name "shorts", :file "clojure/core.clj", :type :fn, :src "(definline shorts\n  \"Casts to shorts[]\"\n  {:added \"1.1\"}\n  [xs] `(. clojure.lang.Numbers shorts ~xs))", :column 1, :line 5119, :arglists ([xs]), :doc "Casts to shorts[]"}

@@ -1,1 +1,0 @@
-{:name "internal-reduce", :arglists ([seq f start]), :doc nil, :ns "clojure.core.protocols", :src nil, :type :fn}

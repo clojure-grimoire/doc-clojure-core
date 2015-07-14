@@ -1,1 +1,0 @@
-{:ns "clojure.core", :name set!, :file nil, :type :special, :src ";; Special forms have no source", :column nil, :line nil, :arglists [(set! var-symbol expr) (set! (. instance-expr instanceFieldName-symbol) expr) (set! (. Classname-symbol staticFieldName-symbol) expr)], :doc "Used to set thread-local-bound vars, Java object instance\nfields, and Java class static fields."}

@@ -1,1 +1,0 @@
-{:added "1.1", :ns "clojure.core", :name "char", :file "clojure/core.clj", :type :fn, :src "(defn char\n  \"Coerce to char\"\n  {:inline (fn  [x] `(. clojure.lang.RT (~(if *unchecked-math* 'uncheckedCharCast 'charCast) ~x)))\n   :added \"1.1\"}\n  [x] (. clojure.lang.RT (charCast x)))", :column 1, :line 3375, :arglists ([x]), :doc "Coerce to char"}

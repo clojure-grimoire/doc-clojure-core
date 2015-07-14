@@ -1,1 +1,0 @@
-{:type :var, :src nil, :added "1.0", :ns "clojure.core", :name "in-ns", :doc "Sets *ns* to the namespace named by the symbol, creating it if needed.", :arglists ([name])}

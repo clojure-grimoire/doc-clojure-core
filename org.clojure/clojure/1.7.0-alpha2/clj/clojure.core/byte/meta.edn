@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "byte", :file "clojure/core.clj", :type :fn, :src "(defn byte\n  \"Coerce to byte\"\n  {:inline (fn  [x] `(. clojure.lang.RT (~(if *unchecked-math* 'uncheckedByteCast 'byteCast) ~x)))\n   :added \"1.0\"}\n  [^Number x] (clojure.lang.RT/byteCast x))", :column 1, :line 3354, :arglists ([x]), :doc "Coerce to byte"}

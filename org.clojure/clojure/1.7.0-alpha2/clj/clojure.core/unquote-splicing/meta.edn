@@ -1,1 +1,0 @@
-{:type :var, :src "(def unquote-splicing)", :ns "clojure.core", :name "unquote-splicing", :file "clojure/core.clj", :column 1, :line 14}

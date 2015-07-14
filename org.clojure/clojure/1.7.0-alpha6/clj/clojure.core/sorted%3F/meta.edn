@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "sorted?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn sorted?\n \"Returns true if coll implements Sorted\"\n {:added \"1.0\"\n   :static true}\n  [coll] (instance? clojure.lang.Sorted coll))", :column 1, :line 5986, :arglists ([coll]), :doc "Returns true if coll implements Sorted"}

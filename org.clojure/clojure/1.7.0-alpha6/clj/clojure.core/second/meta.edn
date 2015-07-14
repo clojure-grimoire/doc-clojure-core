@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "second", :file "clojure/core.clj", :static true, :type :fn, :src "(def\n ^{:doc \"Same as (first (next x))\"\n   :arglists '([x])\n   :added \"1.0\"\n   :static true}\n second (fn ^:static second [x] (first (next x))))", :column 1, :line 91, :arglists ([x]), :doc "Same as (first (next x))"}

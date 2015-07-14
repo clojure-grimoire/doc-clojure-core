@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftype VecNode [edit arr])", :ns "clojure.core", :name "->VecNode", :file "clojure/gvec.clj", :column 1, :line 17, :arglists ([edit arr]), :doc "Positional factory function for class clojure.core.VecNode."}

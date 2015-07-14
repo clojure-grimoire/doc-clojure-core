@@ -1,1 +1,0 @@
-{:type :fn, :src "(defmulti print-method (fn [x writer]\n                         (let [t (get (meta x) :type)]\n                           (if (keyword? t) t (class x)))))", :ns "clojure.core", :name "print-method", :file "clojure/core.clj", :column 1, :line 3532}

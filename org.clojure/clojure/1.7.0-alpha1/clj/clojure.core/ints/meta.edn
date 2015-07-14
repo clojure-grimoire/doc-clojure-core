@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "ints", :file "clojure/core.clj", :type :fn, :src "(definline ints\n  \"Casts to int[]\"\n  {:added \"1.0\"}\n  [xs] `(. clojure.lang.Numbers ints ~xs))", :column 1, :line 5041, :arglists ([xs]), :doc "Casts to int[]"}

@@ -1,1 +1,0 @@
-{:added "1.1", :ns "clojure.test.tap", :name "print-tap-plan", :file "clojure/test/tap.clj", :type :fn, :src "(defn print-tap-plan\n  \"Prints a TAP plan line like '1..n'.  n is the number of tests\"\n  {:added \"1.1\"}\n  [n]\n  (println (str \"1..\" n)))", :column 1, :line 45, :arglists ([n]), :doc "Prints a TAP plan line like '1..n'.  n is the number of tests"}

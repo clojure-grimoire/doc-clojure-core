@@ -1,1 +1,0 @@
-{:tag java.io.File, :added "1.2", :name "as-file", :arglists ([x]), :doc "Coerce argument to a file.", :ns "clojure.java.io", :src nil, :type :fn}

@@ -1,1 +1,0 @@
-{:tag InputStream, :name "resolve-class", :arglists ([this name]), :doc "Given a class name, return that typeref's class bytes as an InputStream.", :ns "clojure.reflect", :src nil, :type :fn}

@@ -1,1 +1,0 @@
-{:type :var, :src nil, :added "1.0", :tag clojure.lang.Agent, :ns "clojure.core", :name "*agent*", :doc "The agent currently running an action on this thread, else nil"}

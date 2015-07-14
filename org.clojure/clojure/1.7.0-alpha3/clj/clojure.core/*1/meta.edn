@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "*1", :file "clojure/core.clj", :type :var, :src "(def ^:dynamic\n ^{:doc \"bound in a repl thread to the most recent value printed\"\n   :added \"1.0\"}\n *1)", :column 1, :dynamic true, :line 5954, :doc "bound in a repl thread to the most recent value printed"}

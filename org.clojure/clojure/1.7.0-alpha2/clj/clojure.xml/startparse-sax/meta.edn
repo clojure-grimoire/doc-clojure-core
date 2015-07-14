@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn startparse-sax [s ch]\n  (.. SAXParserFactory (newInstance) (newSAXParser) (parse s ch)))", :ns "clojure.xml", :name "startparse-sax", :file "clojure/xml.clj", :column 1, :line 75, :arglists ([s ch])}

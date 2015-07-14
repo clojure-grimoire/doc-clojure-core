@@ -1,1 +1,0 @@
-{:added "1.5", :ns "clojure.core.reducers", :name "append!", :file "clojure/core/reducers.clj", :type :fn, :src "(defn append!\n  \".adds x to acc and returns acc\"\n  {:added \"1.5\"}\n  [^java.util.Collection acc x]\n  (doto acc (.add x)))", :column 1, :line 308, :arglists ([acc x]), :doc ".adds x to acc and returns acc"}

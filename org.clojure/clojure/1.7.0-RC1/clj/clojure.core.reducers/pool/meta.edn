@@ -1,1 +1,0 @@
-{:line 41, :column 4, :file "clojure/core/reducers.clj", :name "pool", :ns "clojure.core.reducers", :src "   (def pool (delay (java.util.concurrent.ForkJoinPool.)))", :type :var}

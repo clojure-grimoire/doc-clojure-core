@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "ns-unalias", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ns-unalias\n  \"Removes the alias for the symbol from the namespace.\"\n  {:added \"1.0\"\n   :static true}\n  [ns sym]\n  (.removeAlias (the-ns ns) sym))", :column 1, :line 4052, :arglists ([ns sym]), :doc "Removes the alias for the symbol from the namespace."}

@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "*print-dup*", :type :var, :src nil, :doc "When set to logical true, objects will be printed in a way that preserves\n  their type when read in later.\n\n  Defaults to false."}

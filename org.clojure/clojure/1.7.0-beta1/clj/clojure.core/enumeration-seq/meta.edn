@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "enumeration-seq", :file "clojure/core.clj", :static true, :type :fn, :src "(defn enumeration-seq\n  \"Returns a seq on a java.util.Enumeration\"\n  {:added \"1.0\"\n   :static true}\n  [e]\n  (clojure.lang.EnumerationSeq/create e))", :column 1, :line 5492, :arglists ([e]), :doc "Returns a seq on a java.util.Enumeration"}

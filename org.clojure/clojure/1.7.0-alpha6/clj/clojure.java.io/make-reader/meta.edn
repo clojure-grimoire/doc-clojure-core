@@ -1,1 +1,0 @@
-{:added "1.2", :name "make-reader", :arglists ([x opts]), :doc "Creates a BufferedReader. See also IOFactory docs.", :ns "clojure.java.io", :src nil, :type :fn}

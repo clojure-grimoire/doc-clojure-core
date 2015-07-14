@@ -1,1 +1,0 @@
-{:arglists ([]), :line 51, :column 1, :file "clojure/test/junit.clj", :name "indent", :ns "clojure.test.junit", :src "(defn indent\n  []\n  (dotimes [n (* *depth* 4)] (print \" \")))", :type :fn}

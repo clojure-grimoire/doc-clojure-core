@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn emit [x]\n  (println \"<?xml version='1.0' encoding='UTF-8'?>\")\n  (emit-element x))", :ns "clojure.xml", :name "emit", :file "clojure/xml.clj", :column 1, :line 111, :arglists ([x])}

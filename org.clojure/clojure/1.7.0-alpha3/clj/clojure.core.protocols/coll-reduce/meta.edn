@@ -1,1 +1,0 @@
-{:type :fn, :src nil, :ns "clojure.core.protocols", :doc nil, :arglists ([coll f] [coll f val]), :name "coll-reduce"}

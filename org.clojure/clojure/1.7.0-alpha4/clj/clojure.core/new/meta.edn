@@ -1,1 +1,0 @@
-{:ns "clojure.core", :name new, :file nil, :type :special, :src ";; Special forms have no source", :column nil, :line nil, :arglists [(Classname. args*) (new Classname args*)], :doc "The args, if any, are evaluated from left to right, and\n  passed to the constructor of the class named by Classname. The\n  constructed object is returned."}

@@ -1,1 +1,0 @@
-{:arglists ([o w]), :line 76, :column 1, :file "clojure/core_print.clj", :name "print-simple", :ns "clojure.core", :src "(defn print-simple [o, ^Writer w]\n  (print-meta o w)\n  (.write w (str o)))", :type :fn}

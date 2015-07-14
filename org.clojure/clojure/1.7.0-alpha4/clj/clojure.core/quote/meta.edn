@@ -1,1 +1,0 @@
-{:ns "clojure.core", :name quote, :file nil, :type :special, :src ";; Special forms have no source", :column nil, :line nil, :arglists [(quote form)], :doc "Yields the unevaluated form."}

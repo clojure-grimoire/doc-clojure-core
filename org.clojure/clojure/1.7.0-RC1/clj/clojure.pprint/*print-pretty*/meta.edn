@@ -1,1 +1,0 @@
-{:added "1.2", :ns "clojure.pprint", :name "*print-pretty*", :file "clojure/pprint/pprint_base.clj", :type :var, :src "(def ^:dynamic\n ^{:doc \"Bind to true if you want write to use pretty printing\", :added \"1.2\"}\n *print-pretty* true)", :column 1, :dynamic true, :line 30, :doc "Bind to true if you want write to use pretty printing"}

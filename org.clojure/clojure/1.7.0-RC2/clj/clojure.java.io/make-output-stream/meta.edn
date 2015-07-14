@@ -1,1 +1,0 @@
-{:added "1.2", :name "make-output-stream", :arglists ([x opts]), :doc "Creates a BufferedOutputStream. See also IOFactory docs.", :ns "clojure.java.io", :src nil, :type :fn}

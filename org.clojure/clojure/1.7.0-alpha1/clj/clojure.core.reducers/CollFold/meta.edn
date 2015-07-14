@@ -1,1 +1,0 @@
-{:type :var, :src "(defprotocol CollFold\n  (coll-fold [coll n combinef reducef]))", :doc nil, :ns "clojure.core.reducers", :name "CollFold", :file "clojure/core/reducers.clj", :column 1, :line 81}

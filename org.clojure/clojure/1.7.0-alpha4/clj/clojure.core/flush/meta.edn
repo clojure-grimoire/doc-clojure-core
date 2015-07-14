@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "flush", :file "clojure/core.clj", :static true, :type :fn, :src "(defn flush\n  \"Flushes the output stream that is the current value of\n  *out*\"\n  {:added \"1.0\"\n   :static true}\n  []\n    (. *out* (flush))\n    nil)", :column 1, :line 3574, :arglists ([]), :doc "Flushes the output stream that is the current value of\n  *out*"}

@@ -1,1 +1,0 @@
-{:dynamic true, :line 21, :column 1, :file "clojure/java/javadoc.clj", :name "*core-java-api*", :ns "clojure.java.javadoc", :src "(def ^:dynamic *core-java-api*\n  (case (System/getProperty \"java.specification.version\")\n    \"1.6\" \"http://java.sun.com/javase/6/docs/api/\"\n    \"http://java.sun.com/javase/7/docs/api/\"))", :type :var}

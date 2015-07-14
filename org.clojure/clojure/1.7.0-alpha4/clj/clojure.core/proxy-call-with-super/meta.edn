@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn proxy-call-with-super [call this meth]\n (let [m (proxy-mappings this)]\n    (update-proxy this (assoc m meth nil))\n    (try\n      (call)\n      (finally (update-proxy this m)))))", :ns "clojure.core", :name "proxy-call-with-super", :file "clojure/core_proxy.clj", :column 1, :line 358, :arglists ([call this meth])}

@@ -1,1 +1,0 @@
-{:ns "clojure.core", :name monitor-enter, :file nil, :type :special, :src ";; Special forms have no source", :column nil, :line nil, :arglists [(monitor-enter x)], :doc "Synchronization primitive that should be avoided\n  in user code. Use the 'locking' macro."}

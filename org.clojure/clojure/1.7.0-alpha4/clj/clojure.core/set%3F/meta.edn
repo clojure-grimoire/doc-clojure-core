@@ -1,1 +1,0 @@
-{:added "1.0", :ns "clojure.core", :name "set?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn set?\n  \"Returns true if x implements IPersistentSet\"\n  {:added \"1.0\"\n   :static true}\n  [x] (instance? clojure.lang.IPersistentSet x))", :column 1, :line 5904, :arglists ([x]), :doc "Returns true if x implements IPersistentSet"}

@@ -1,1 +1,0 @@
-{:type :var, :src "(defprotocol Reflector\n  \"Protocol for reflection implementers.\"\n  (do-reflect [reflector typeref]))", :doc "Protocol for reflection implementers.", :ns "clojure.reflect", :name "Reflector", :file "clojure/reflect.clj", :column 1, :line 44}
