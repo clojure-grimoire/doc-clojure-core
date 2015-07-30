@@ -1,1 +1,2 @@
-{:type :sentinel, :redirect "clojure.core/try"}
+{:type :sentinel
+ :target "clojure.core/try"}
