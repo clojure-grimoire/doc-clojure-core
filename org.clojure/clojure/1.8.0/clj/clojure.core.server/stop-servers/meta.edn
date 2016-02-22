@@ -1,0 +1,1 @@
+{:arglists ([]), :doc "Stop all servers ignores all errors, and returns nil.", :line 136, :column 1, :file "clojure/core/server.clj", :name "stop-servers", :ns "clojure.core.server", :src "(defn stop-servers\n  \"Stop all servers ignores all errors, and returns nil.\"\n  []\n  (with-lock lock\n    (doseq [name (keys servers)]\n      (future (stop-server name)))))", :type :fn}

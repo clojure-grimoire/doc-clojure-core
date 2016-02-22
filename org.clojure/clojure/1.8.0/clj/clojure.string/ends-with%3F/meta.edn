@@ -1,0 +1,1 @@
+{:added "1.8", :ns "clojure.string", :name "ends-with?", :file "clojure/string.clj", :type :fn, :src "(defn ends-with?\n  \"True if s ends with substr.\"\n  {:added \"1.8\"}\n  [^CharSequence s ^String substr]\n  (.endsWith (.toString s) substr))", :column 1, :line 366, :arglists ([s substr]), :doc "True if s ends with substr."}

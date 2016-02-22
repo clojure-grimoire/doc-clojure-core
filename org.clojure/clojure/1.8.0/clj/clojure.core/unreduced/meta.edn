@@ -1,0 +1,1 @@
+{:added "1.7", :ns "clojure.core", :name "unreduced", :file "clojure/core.clj", :type :fn, :src "(defn unreduced\n  \"If x is reduced?, returns (deref x), else returns x\"\n  {:added \"1.7\"}\n  [x]\n  (if (reduced? x) (deref x) x))", :column 1, :line 2746, :arglists ([x]), :doc "If x is reduced?, returns (deref x), else returns x"}

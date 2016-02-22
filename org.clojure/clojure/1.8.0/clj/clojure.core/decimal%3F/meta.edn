@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "decimal?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn decimal?\n  \"Returns true if n is a BigDecimal\"\n  {:added \"1.0\"\n   :static true}\n  [n] (instance? BigDecimal n))", :column 1, :line 3496, :arglists ([n]), :doc "Returns true if n is a BigDecimal"}

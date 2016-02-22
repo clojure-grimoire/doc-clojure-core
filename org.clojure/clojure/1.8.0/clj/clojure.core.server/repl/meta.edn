@@ -1,0 +1,1 @@
+{:arglists ([]), :doc "REPL with predefined hooks for attachable socket server.", :line 177, :column 1, :file "clojure/core/server.clj", :name "repl", :ns "clojure.core.server", :src "(defn repl\n  \"REPL with predefined hooks for attachable socket server.\"\n  []\n  (m/repl\n    :init repl-init\n    :read repl-read))", :type :fn}

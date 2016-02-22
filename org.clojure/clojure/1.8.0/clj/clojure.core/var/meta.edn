@@ -1,0 +1,1 @@
+{:type :def, :forms [(var symbol)], :doc "The symbol must resolve to a var, and the Var object\nitself (not its value) is returned. The reader macro #'x expands to (var x)."}

@@ -1,0 +1,1 @@
+{:author "Chris Houser, Stuart Halloway", :doc "Conveniently launch a sub-process providing its stdin and\ncollecting its stdout"}

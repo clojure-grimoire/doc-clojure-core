@@ -1,0 +1,1 @@
+{:type :def, :forms [(Classname. args*) (new Classname args*)], :url "java_interop#new", :doc "The args, if any, are evaluated from left to right, and\n  passed to the constructor of the class named by Classname. The\n  constructed object is returned."}

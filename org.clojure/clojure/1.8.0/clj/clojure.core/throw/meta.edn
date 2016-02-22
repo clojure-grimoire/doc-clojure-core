@@ -1,0 +1,1 @@
+{:forms [(throw expr)], :doc "The expr is evaluated and thrown, therefore it should\n  yield an instance of some derivee of Throwable."}

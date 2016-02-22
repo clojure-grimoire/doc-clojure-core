@@ -1,0 +1,1 @@
+{:author "Christophe Grand", :doc "Helper namespace for clojure.java.browse.\n            Prevents console apps from becoming GUI unnecessarily."}

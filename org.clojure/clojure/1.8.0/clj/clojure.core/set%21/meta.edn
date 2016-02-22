@@ -1,0 +1,1 @@
+{:type :def, :forms [(set! var-symbol expr) (set! (. instance-expr instanceFieldName-symbol) expr) (set! (. Classname-symbol staticFieldName-symbol) expr)], :url "vars#set", :doc "Used to set thread-local-bound vars, Java object instance\nfields, and Java class static fields."}

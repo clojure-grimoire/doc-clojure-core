@@ -1,0 +1,1 @@
+{:arglists ([x]), :line 22, :column 1, :file "clojure/inspector.clj", :name "collection-tag", :ns "clojure.inspector", :src "(defn collection-tag [x]\n  (cond \n   (map-entry? x) :entry\n   (instance? java.util.Map x) :seqable\n   (instance? java.util.Set x) :seqable\n   (sequential? x) :seq\n   (instance? clojure.lang.Seqable x) :seqable\n   :else :atom))", :type :fn}

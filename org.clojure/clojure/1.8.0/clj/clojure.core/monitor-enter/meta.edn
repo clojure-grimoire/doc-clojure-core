@@ -1,0 +1,1 @@
+{:type :def, :forms [(monitor-enter x)], :doc "Synchronization primitive that should be avoided\n  in user code. Use the 'locking' macro."}

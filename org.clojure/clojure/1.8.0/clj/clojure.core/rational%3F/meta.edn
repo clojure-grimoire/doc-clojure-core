@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "rational?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn rational? \n  \"Returns true if n is a rational number\"\n  {:added \"1.0\"\n   :static true}\n  [n]\n  (or (integer? n) (ratio? n) (decimal? n)))", :column 1, :line 3510, :arglists ([n]), :doc "Returns true if n is a rational number"}

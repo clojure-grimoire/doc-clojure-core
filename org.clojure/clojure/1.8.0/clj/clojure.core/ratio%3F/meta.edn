@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "ratio?", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ratio?\n  \"Returns true if n is a Ratio\"\n  {:added \"1.0\"\n   :static true}\n  [n] (instance? clojure.lang.Ratio n))", :column 1, :line 3474, :arglists ([n]), :doc "Returns true if n is a Ratio"}

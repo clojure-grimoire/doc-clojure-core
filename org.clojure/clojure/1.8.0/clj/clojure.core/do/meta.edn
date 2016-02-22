@@ -1,0 +1,1 @@
+{:type :def, :forms [(do exprs*)], :doc "Evaluates the expressions in order and returns the value of\n  the last. If no expressions are supplied, returns nil."}

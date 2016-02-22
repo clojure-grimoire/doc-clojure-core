@@ -1,0 +1,1 @@
+{:arglists ([]), :doc "Initialize repl in user namespace and make standard repl requires.", :line 160, :column 1, :file "clojure/core/server.clj", :name "repl-init", :ns "clojure.core.server", :src "(defn repl-init\n  \"Initialize repl in user namespace and make standard repl requires.\"\n  []\n  (in-ns 'user)\n  (apply require clojure.main/repl-requires))", :type :fn}

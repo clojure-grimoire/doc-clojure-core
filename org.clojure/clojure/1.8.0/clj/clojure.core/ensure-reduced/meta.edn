@@ -1,0 +1,1 @@
+{:added "1.7", :ns "clojure.core", :name "ensure-reduced", :file "clojure/core.clj", :type :fn, :src "(defn ensure-reduced\n  \"If x is already reduced?, returns it, else returns (reduced x)\"\n  {:added \"1.7\"}\n  [x]\n  (if (reduced? x) x (reduced x)))", :column 1, :line 2740, :arglists ([x]), :doc "If x is already reduced?, returns it, else returns (reduced x)"}

@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "key", :file "clojure/core.clj", :static true, :type :fn, :src "(defn key\n  \"Returns the key of the map entry.\"\n  {:added \"1.0\"\n   :static true}\n  [^java.util.Map$Entry e]\n    (. e (getKey)))", :column 1, :line 1518, :arglists ([e]), :doc "Returns the key of the map entry."}

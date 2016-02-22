@@ -1,0 +1,1 @@
+{:added "1.0", :ns "clojure.core", :name "short", :file "clojure/core.clj", :type :fn, :src "(defn short\n  \"Coerce to short\"\n  {:inline (fn  [x] `(. clojure.lang.RT (~(if *unchecked-math* 'uncheckedShortCast 'shortCast) ~x)))\n   :added \"1.0\"}\n  [^Number x] (clojure.lang.RT/shortCast x))", :column 1, :line 3389, :arglists ([x]), :doc "Coerce to short"}

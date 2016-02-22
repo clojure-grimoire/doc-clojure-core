@@ -1,0 +1,1 @@
+{:type :def, :forms [(recur exprs*)], :doc "Evaluates the exprs in order, then, in parallel, rebinds\n  the bindings of the recursion point to the values of the exprs.\n  Execution then jumps back to the recursion point, a loop or fn method."}
