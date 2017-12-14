@@ -1,0 +1,1 @@
+{:ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "->VecNode", :file "clojure/gvec.clj", :type :fn, :src "(deftype VecNode [edit arr])", :column 1, :line 17, :arglists ([edit arr]), :doc "Positional factory function for class clojure.core.VecNode.", :namespace "clojure.core"}

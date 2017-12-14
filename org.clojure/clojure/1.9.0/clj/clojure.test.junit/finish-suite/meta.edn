@@ -1,0 +1,1 @@
+{:arglists ([]), :line 109, :column 1, :file "clojure/test/junit.clj", :name "finish-suite", :ns #object[clojure.lang.Namespace 0x2f832f81 "clojure.test.junit"], :src "(defn finish-suite\n  []\n  (finish-element 'testsuite true))", :type :fn, :namespace "clojure.test.junit"}

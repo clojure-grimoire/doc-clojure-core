@@ -1,0 +1,1 @@
+{:added "1.9", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "inst?", :file "clojure/core.clj", :type :fn, :src "(defn inst?\n  \"Return true if x satisfies Inst\"\n  {:added \"1.9\"}\n  [x]\n  (satisfies? Inst x))", :column 1, :line 6717, :arglists ([x]), :doc "Return true if x satisfies Inst", :namespace "clojure.core"}

@@ -1,0 +1,1 @@
+{:ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "chunk-cons", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ^:static chunk-cons [chunk rest]\n  (if (clojure.lang.Numbers/isZero (clojure.lang.RT/count chunk))\n    rest\n    (clojure.lang.ChunkedCons. chunk rest)))", :column 1, :line 702, :arglists ([chunk rest]), :namespace "clojure.core"}

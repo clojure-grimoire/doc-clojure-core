@@ -1,0 +1,1 @@
+{:line 13, :column 1, :file "clojure/core.clj", :name "unquote", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(def unquote)", :type :var, :namespace "clojure.core"}

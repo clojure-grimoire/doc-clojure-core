@@ -1,0 +1,1 @@
+{:arglists ([x]), :line 111, :column 1, :file "clojure/xml.clj", :name "emit", :ns #object[clojure.lang.Namespace 0x3468198d "clojure.xml"], :src "(defn emit [x]\n  (println \"<?xml version='1.0' encoding='UTF-8'?>\")\n  (emit-element x))", :type :fn, :namespace "clojure.xml"}

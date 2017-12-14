@@ -1,0 +1,1 @@
+{:added "1.2", :name "make-input-stream", :arglists ([x opts]), :doc "Creates a BufferedInputStream. See also IOFactory docs.", :ns #object[clojure.lang.Namespace 0x6edfb42d "clojure.java.io"], :src nil, :type :fn, :namespace "clojure.java.io"}

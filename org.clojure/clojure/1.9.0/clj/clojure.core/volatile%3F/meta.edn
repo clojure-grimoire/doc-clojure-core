@@ -1,0 +1,1 @@
+{:added "1.7", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "volatile?", :file "clojure/core.clj", :type :fn, :src "(defn volatile?\n  \"Returns true if x is a volatile.\"\n  {:added \"1.7\"}\n  [x]\n  (instance? clojure.lang.Volatile x))", :column 1, :line 2540, :arglists ([x]), :doc "Returns true if x is a volatile.", :namespace "clojure.core"}

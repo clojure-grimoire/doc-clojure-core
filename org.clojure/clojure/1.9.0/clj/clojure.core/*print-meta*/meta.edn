@@ -1,0 +1,1 @@
+{:added "1.0", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "*print-meta*", :type :var, :src nil, :doc "If set to logical true, when printing an object, its metadata will also\n  be printed in a form that can be read back by the reader.\n\n  Defaults to false.", :namespace "clojure.core"}

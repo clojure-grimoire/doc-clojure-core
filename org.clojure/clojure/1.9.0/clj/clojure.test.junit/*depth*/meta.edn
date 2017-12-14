@@ -1,0 +1,1 @@
+{:dynamic true, :line 49, :column 1, :file "clojure/test/junit.clj", :name "*depth*", :ns #object[clojure.lang.Namespace 0x2f832f81 "clojure.test.junit"], :src "(def ^:dynamic *depth*)", :type :var, :namespace "clojure.test.junit"}

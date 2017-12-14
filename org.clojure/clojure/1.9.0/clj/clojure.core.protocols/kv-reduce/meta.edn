@@ -1,0 +1,1 @@
+{:name "kv-reduce", :arglists ([amap f init]), :doc nil, :ns #object[clojure.lang.Namespace 0x6b89b36d "clojure.core.protocols"], :src nil, :type :fn, :namespace "clojure.core.protocols"}

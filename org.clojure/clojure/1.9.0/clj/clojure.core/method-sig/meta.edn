@@ -1,0 +1,1 @@
+{:arglists ([meth]), :line 20, :column 1, :file "clojure/core_proxy.clj", :name "method-sig", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(defn method-sig [^java.lang.reflect.Method meth]\n  [(. meth (getName)) (seq (. meth (getParameterTypes))) (. meth getReturnType)])", :type :fn, :namespace "clojure.core"}

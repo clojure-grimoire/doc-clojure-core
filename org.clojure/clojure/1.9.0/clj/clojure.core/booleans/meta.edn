@@ -1,0 +1,1 @@
+{:added "1.1", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "booleans", :file "clojure/core.clj", :type :fn, :src "(definline booleans\n  \"Casts to boolean[]\"\n  {:added \"1.1\"}\n  [xs] `(. clojure.lang.Numbers booleans ~xs))", :column 1, :line 5288, :arglists ([xs]), :doc "Casts to boolean[]", :namespace "clojure.core"}

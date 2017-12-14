@@ -1,0 +1,1 @@
+{:ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "await1", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ^:static await1 [^clojure.lang.Agent a]\n  (when (pos? (.getQueueCount a))\n    (await a))\n    a)", :column 1, :line 3283, :arglists ([a]), :namespace "clojure.core"}

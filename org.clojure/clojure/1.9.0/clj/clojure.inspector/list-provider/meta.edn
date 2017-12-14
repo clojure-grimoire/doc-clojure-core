@@ -1,0 +1,1 @@
+{:line 112, :column 1, :file "clojure/inspector.clj", :name "list-provider", :ns #object[clojure.lang.Namespace 0x4a242227 "clojure.inspector"], :src "(defmulti list-provider class)", :type :fn, :namespace "clojure.inspector"}

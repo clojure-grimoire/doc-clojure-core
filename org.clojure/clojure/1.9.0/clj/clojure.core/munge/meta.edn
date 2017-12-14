@@ -1,0 +1,1 @@
+{:arglists ([s]), :line 129, :column 1, :file "clojure/core_deftype.clj", :name "munge", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(defn munge [s]\n  ((if (symbol? s) symbol str) (clojure.lang.Compiler/munge (str s))))", :type :fn, :namespace "clojure.core"}

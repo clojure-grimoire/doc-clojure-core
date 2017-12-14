@@ -1,0 +1,1 @@
+{:dynamic true, :line 267, :column 1, :file "clojure/test.clj", :name "*testing-vars*", :ns #object[clojure.lang.Namespace 0x4f0ee1eb "clojure.test"], :src "(def ^:dynamic *testing-vars* (list))", :type :var, :namespace "clojure.test"}

@@ -1,0 +1,1 @@
+{:added "1.9", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "uuid?", :file "clojure/core.clj", :type :fn, :src "(defn uuid?\n  \"Return true if x is a java.util.UUID\"\n  {:added \"1.9\"}\n  [x] (instance? java.util.UUID x))", :column 1, :line 6725, :arglists ([x]), :doc "Return true if x is a java.util.UUID", :namespace "clojure.core"}

@@ -1,0 +1,1 @@
+{:added "1.0", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "*file*", :type :var, :src nil, :doc "The path of the file being evaluated, as a String.\n\n  When there is no file, e.g. in the REPL, the value is not defined.", :namespace "clojure.core"}

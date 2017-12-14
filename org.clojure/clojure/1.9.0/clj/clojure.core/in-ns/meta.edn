@@ -1,0 +1,1 @@
+{:doc "Sets *ns* to the namespace named by the symbol, creating it if needed.", :arglists ([name]), :name "in-ns", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :added "1.0", :src nil, :type :var, :namespace "clojure.core"}

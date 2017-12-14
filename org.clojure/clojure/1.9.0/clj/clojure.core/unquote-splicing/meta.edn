@@ -1,0 +1,1 @@
+{:line 14, :column 1, :file "clojure/core.clj", :name "unquote-splicing", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(def unquote-splicing)", :type :var, :namespace "clojure.core"}

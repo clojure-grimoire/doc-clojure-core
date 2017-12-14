@@ -1,0 +1,1 @@
+{:added "1.9", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "double?", :file "clojure/core.clj", :type :fn, :src "(defn double?\n  \"Return true if x is a Double\"\n  {:added \"1.9\"}\n  [x] (instance? Double x))", :column 1, :line 1418, :arglists ([x]), :doc "Return true if x is a Double", :namespace "clojure.core"}

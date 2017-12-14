@@ -1,0 +1,1 @@
+{:arglists ([x y]), :line 126, :column 1, :file "clojure/core_deftype.clj", :name "hash-combine", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(defn hash-combine [x y] \n  (clojure.lang.Util/hashCombine x (clojure.lang.Util/hash y)))", :type :fn, :namespace "clojure.core"}

@@ -1,0 +1,1 @@
+{:added "1.1", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "chars", :file "clojure/core.clj", :type :fn, :src "(definline chars\n  \"Casts to chars[]\"\n  {:added \"1.1\"}\n  [xs] `(. clojure.lang.Numbers chars ~xs))", :column 1, :line 5298, :arglists ([xs]), :doc "Casts to chars[]", :namespace "clojure.core"}

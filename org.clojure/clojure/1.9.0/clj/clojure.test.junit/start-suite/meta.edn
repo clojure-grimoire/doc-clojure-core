@@ -1,0 +1,1 @@
+{:arglists ([name]), :line 104, :column 1, :file "clojure/test/junit.clj", :name "start-suite", :ns #object[clojure.lang.Namespace 0x2f832f81 "clojure.test.junit"], :src "(defn start-suite\n  [name]\n  (let [[package classname] (package-class name)]\n    (start-element 'testsuite true (suite-attrs package classname))))", :type :fn, :namespace "clojure.test.junit"}

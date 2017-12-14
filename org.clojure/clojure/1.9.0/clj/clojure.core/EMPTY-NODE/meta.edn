@@ -1,0 +1,1 @@
+{:line 19, :column 1, :file "clojure/gvec.clj", :name "EMPTY-NODE", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(def EMPTY-NODE (VecNode. nil (object-array 32)))", :type :var, :namespace "clojure.core"}

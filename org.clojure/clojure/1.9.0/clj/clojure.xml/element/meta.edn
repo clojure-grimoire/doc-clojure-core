@@ -1,0 +1,1 @@
+{:line 20, :column 1, :file "clojure/xml.clj", :name "element", :ns #object[clojure.lang.Namespace 0x3468198d "clojure.xml"], :src "(defstruct element :tag :attrs :content)", :type :var, :namespace "clojure.xml"}

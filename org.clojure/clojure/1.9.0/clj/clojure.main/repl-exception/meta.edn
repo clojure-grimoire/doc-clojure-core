@@ -1,0 +1,1 @@
+{:ns #object[clojure.lang.Namespace 0x1ee98d0d "clojure.main"], :name "repl-exception", :file "clojure/main.clj", :type :fn, :src "(defn repl-exception\n  \"Returns the root cause of throwables\"\n  [throwable]\n  (root-cause throwable))", :column 1, :line 147, :arglists ([throwable]), :doc "Returns the root cause of throwables", :namespace "clojure.main"}

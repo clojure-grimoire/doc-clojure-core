@@ -1,0 +1,1 @@
+{:arglists ([x]), :line 19, :column 1, :file "clojure/inspector.clj", :name "atom?", :ns #object[clojure.lang.Namespace 0x4a242227 "clojure.inspector"], :src "(defn atom? [x]\n  (not (coll? x)))", :type :fn, :namespace "clojure.inspector"}

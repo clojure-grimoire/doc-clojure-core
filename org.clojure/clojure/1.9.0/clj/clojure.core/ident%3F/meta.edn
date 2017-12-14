@@ -1,0 +1,1 @@
+{:added "1.9", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "ident?", :file "clojure/core.clj", :type :fn, :src "(defn ident?\n  \"Return true if x is a symbol or keyword\"\n  {:added \"1.9\"}\n  [x] (or (keyword? x) (symbol? x)))", :column 1, :line 1604, :arglists ([x]), :doc "Return true if x is a symbol or keyword", :namespace "clojure.core"}

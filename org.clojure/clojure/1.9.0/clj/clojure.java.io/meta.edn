@@ -1,0 +1,1 @@
+{:author "Stuart Sierra, Chas Emerick, Stuart Halloway", :doc "This file defines polymorphic I/O utility functions for Clojure."}

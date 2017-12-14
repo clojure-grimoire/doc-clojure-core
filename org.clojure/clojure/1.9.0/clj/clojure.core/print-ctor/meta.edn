@@ -1,0 +1,1 @@
+{:arglists ([o print-args w]), :line 97, :column 1, :file "clojure/core_print.clj", :name "print-ctor", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :src "(defn print-ctor [o print-args ^Writer w]\n  (.write w \"#=(\")\n  (.write w (.getName ^Class (class o)))\n  (.write w \". \")\n  (print-args o w)\n  (.write w \")\"))", :type :fn, :namespace "clojure.core"}

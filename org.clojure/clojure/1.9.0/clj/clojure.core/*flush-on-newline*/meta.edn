@@ -1,0 +1,1 @@
+{:added "1.0", :ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "*flush-on-newline*", :type :var, :src nil, :doc "When set to true, output will be flushed whenever a newline is printed.\n\n  Defaults to true.", :namespace "clojure.core"}

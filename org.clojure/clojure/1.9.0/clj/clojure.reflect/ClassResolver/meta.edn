@@ -1,0 +1,1 @@
+{:line 184, :column 1, :file "clojure/reflect/java.clj", :name "ClassResolver", :ns #object[clojure.lang.Namespace 0x6572bcb5 "clojure.reflect"], :doc nil, :src "(defprotocol ClassResolver\n  (^InputStream resolve-class [this name]\n                \"Given a class name, return that typeref's class bytes as an InputStream.\"))", :type :var, :namespace "clojure.reflect"}

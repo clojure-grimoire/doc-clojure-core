@@ -1,0 +1,1 @@
+{:ns #object[clojure.lang.Namespace 0x264888e7 "clojure.core"], :name "chunk-first", :file "clojure/core.clj", :static true, :type :fn, :src "(defn ^:static  ^clojure.lang.IChunk chunk-first ^clojure.lang.IChunk [^clojure.lang.IChunkedSeq s]\n  (.chunkedFirst s))", :column 1, :line 693, :tag clojure.lang.IChunk, :arglists ([s]), :namespace "clojure.core"}

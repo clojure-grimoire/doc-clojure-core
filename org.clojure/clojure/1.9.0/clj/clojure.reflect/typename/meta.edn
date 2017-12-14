@@ -1,0 +1,1 @@
+{:name "typename", :arglists ([o]), :doc "Returns Java name as returned by ASM getClassName, e.g. byte[], java.lang.String[]", :ns #object[clojure.lang.Namespace 0x6572bcb5 "clojure.reflect"], :src nil, :type :fn, :namespace "clojure.reflect"}

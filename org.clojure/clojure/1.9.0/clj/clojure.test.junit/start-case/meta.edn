@@ -1,0 +1,1 @@
+{:arglists ([name classname]), :line 89, :column 1, :file "clojure/test/junit.clj", :name "start-case", :ns #object[clojure.lang.Namespace 0x2f832f81 "clojure.test.junit"], :src "(defn start-case\n  [name classname]\n  (start-element 'testcase true {:name name :classname classname}))", :type :fn, :namespace "clojure.test.junit"}

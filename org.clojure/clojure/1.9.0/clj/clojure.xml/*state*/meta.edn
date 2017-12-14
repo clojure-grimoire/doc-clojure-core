@@ -1,0 +1,1 @@
+{:dynamic true, :line 17, :column 1, :file "clojure/xml.clj", :name "*state*", :ns #object[clojure.lang.Namespace 0x3468198d "clojure.xml"], :src "(def ^:dynamic *state*)", :type :var, :namespace "clojure.xml"}

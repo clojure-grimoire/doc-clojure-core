@@ -1,0 +1,1 @@
+{:added "1.0", :ns #object[clojure.lang.Namespace 0x4ac51b14 "clojure.zip"], :name "rights", :file "clojure/zip.clj", :type :fn, :src "(defn rights\n  \"Returns a seq of the right siblings of this loc\"\n  {:added \"1.0\"}\n  [loc]\n    (:r (loc 1)))", :column 1, :line 102, :arglists ([loc]), :doc "Returns a seq of the right siblings of this loc", :namespace "clojure.zip"}
